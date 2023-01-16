@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yan Long"
   avatar           : "yanlong.png"
-  bio              : "Security and Privacy in Sensing"
+  bio              : "Sensing with better security and privacy."
   location         : "Ann Arbor, MI, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1OHEpEsAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "yanlong@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

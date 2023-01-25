@@ -73,7 +73,7 @@ Biomedical Instrumentation & Technology (AAMI BI&T). 2021.<br/>
 
 ## Workshops and Posters
 
-* __Yan Long*__ and Kevin Fu. 
+* __Yan Long__ and Kevin Fu. 
 <br/> 
 **"Side Auth: Sensor Side Channels Considered Beneficial by Synthesizing Virtual Sensors for Authentication"**
 <br/>

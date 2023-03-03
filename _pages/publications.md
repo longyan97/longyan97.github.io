@@ -73,6 +73,14 @@ Biomedical Instrumentation & Technology (AAMI BI&T). 2021.<br/>
 
 ## Workshops and Posters
 
+* Benjamin Cyr,  __Yan Long__, Takeshi Sugawara and Kevin Fu. 
+<br/> 
+**"Space System Threat Models Must Account for Satellite Sensor Spoofing"**
+<br/>
+In Workshop on Security of Space and Satellite Systems (SpaceSec) 2023
+<br/>
+[[PDF]](/files/spacesec23.pdf)
+
 * __Yan Long__ and Kevin Fu. 
 <br/> 
 **"Side Auth: Sensor Side Channels Considered Beneficial by Synthesizing Virtual Sensors for Authentication"**

@@ -12,3 +12,8 @@ Nice meeting you here! I'm a 4th year PhD candidate from the EECS department at 
 * The gaps between existing computation abstractions and actual hardware/software implementations in embedded sensing systems.
 * The techniques for using existing sensors to extract extra modalities of signals using data-driven approaches informed by sensor physics.
 * The downstream security and privacy problems as well as the new opportunities in biometric data collection and digital forensics. 
+
+## News
+
+* [Mar 3, 2023] I am honored to receive the [Rackham Predoctoral Fellowship](https://rackham.umich.edu/funding/funding-types/rackham-predoctoral-fellowship-program/). 
+* [Feb 27, 2023] We presented our position paper on future sensor spoofing threats against satellites systems in [the first Space Security Workshop](https://www.ndss-symposium.org/ndss-program/spacesec-2023/). 

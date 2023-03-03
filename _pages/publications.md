@@ -87,7 +87,7 @@ In Workshop on Security of Space and Satellite Systems (SpaceSec) 2023
 <br/>
 In Proceedings of the 2022 ACM/ACSA New Security Paradigms Workshop (NSPW). 2022. (Acceptance rate 38%)
 <br/>
-[[PDF]](/files/nspw22.pdf)
+[[PDF]](https://arxiv.org/pdf/2301.11745.pdf)
 
 
 * __Yan Long__, Alexander Curtiss, Sara Rampazzi, Josiah Hester, and Kevin Fu.

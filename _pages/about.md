@@ -16,5 +16,5 @@ Nice meeting you here! I'm a 4th year PhD candidate from the EECS department at 
 ## News
 
 * [Mar 27, 2023] Our position paper on [satellite security threat modeling](/files/spacesec23.pdf) is invited to be presented at [CySat 2023](https://cysat.eu/) in Paris.  
-* [Mar 3, 2023] I am honored to receive the [Rackham Predoctoral Fellowship](https://rackham.umich.edu/funding/funding-types/rackham-predoctoral-fellowship-program/). 
+* [Mar 3, 2023] I am honored to receive the [Rackham Predoctoral Fellowship](https://ece.engin.umich.edu/stories/yan-long-awarded-predoctoral-fellowship-to-support-research-impacting-secure-communications)! 
 * [Feb 27, 2023] We presented our position paper on future sensor spoofing threats against satellites systems in [the first Space Security Workshop](https://www.ndss-symposium.org/ndss-program/spacesec-2023/). 

@@ -14,7 +14,7 @@ author_profile: true
 <br/> 
 **"Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses"**
 <br/>
-In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 12%)<br/>
+In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 17%)<br/>
 [[Website]](https://sideeyeattack.github.io/Website/)  [[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00059)  [[PDF]](/files/oakland23-sideeye.pdf)
 
 
@@ -22,7 +22,7 @@ In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S
 <br/> 
 **"Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing"**
 <br/>
-In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 12%)<br/>
+In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 17%)<br/>
 [[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00050)  [[PDF]](/files/oakland23-privateeye.pdf)
 
 

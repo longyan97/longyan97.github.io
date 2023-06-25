@@ -15,6 +15,8 @@ I'm a 4th year PhD candidate from the EECS department at the University of Michi
 
 ## News
 
+* [June 22, 2023] One co-authored paper on keyboard sensing security conditionally accepted at [NDSS 2024](https://www.ndss-symposium.org/ndss2024/). 
+* [June 16, 2023] One co-first authored paper on Android sensor security conditionally accepted at [RAID 2023](https://raid2023.org/welcome.html). 
 * [April 10, 2023] Our website for the [Side Eye project](https://sideeyeattack.github.io/Website/) is up. Check out the speech samples extracted from muted videos! 
 * [Mar 27, 2023] Our position paper on [satellite security threat modeling](/files/spacesec23.pdf) is invited to be presented at [CySat 2023](https://cysat.eu/) in Paris.  
 * [Mar 3, 2023] I am honored to receive the [Rackham Predoctoral Fellowship](https://ece.engin.umich.edu/stories/yan-long-awarded-predoctoral-fellowship-to-support-research-impacting-secure-communications)! 

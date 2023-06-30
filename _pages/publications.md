@@ -9,13 +9,20 @@ author_profile: true
 
 ## Conferences
 
+* Connor Bolton*, __Yan Long*__, Jun Han, Josiah Hester, and Kevin Fu. 
+<br/> 
+**"Characterizing and Mitigating Touchtone Eavesdropping in Smartphone Motion Sensors"**
+<br/>
+In the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023). (Acceptance rate 23.5%) (To appear)<br/>
+
+
 
 * __Yan Long__, Pirouz Naghavi, Blas Kojusner, Kevin Butler, Sara Rampazzi and Kevin Fu. 
 <br/> 
 **"Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses"**
 <br/>
 In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 17%)<br/>
-[[Website]](https://sideeyeattack.github.io/Website/)  [[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00059)  [[PDF]](/files/oakland23-sideeye.pdf)
+[[Website]](https://sideeyeattack.github.io/Website/)  [[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00059)  [[PDF]](/files/oakland23-sideeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=W7ljxXxOem0&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=67)
 
 
 * __Yan Long__, Chen Yan, Shilin Xiao, Shivan Prasad, Wenyuan Xu, and Kevin Fu. 
@@ -23,7 +30,7 @@ In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S
 **"Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing"**
 <br/>
 In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 17%)<br/>
-[[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00050)  [[PDF]](/files/oakland23-privateeye.pdf)
+[[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00050)  [[PDF]](/files/oakland23-privateeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=1Cz_Zp-uEE8&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=114)
 
 
 * Chen Yan*, __Yan Long*__, Xiaoyu Ji, and Wenyuan Xu. 
@@ -99,7 +106,7 @@ In Proceedings of the 18th Conference on Embedded Networked Sensor Systems (SenS
 [[Website]](https://spqrlab1.github.io/N95deconProject.html)   [[Paper Link]](https://dl.acm.org/doi/abs/10.1145/3478105)  [[PDF]](/files/imwut21.pdf)  [[Code]](https://github.com/longyan97/VeriMask_Designs) 
 
 
-## Preprints
+<!-- ## Preprints
 
 * Connor Bolton, __Yan Long__, Jun Han, Josiah Hester, and Kevin Fu. 
 <br/> 
@@ -107,7 +114,7 @@ In Proceedings of the 18th Conference on Embedded Networked Sensor Systems (SenS
 <br/>
 arXiv preprint arXiv:2109.13834
 <br/>
-[[PDF]](/files/arxiv-touchtone.pdf)
+[[PDF]](/files/arxiv-touchtone.pdf) -->
 
 
 

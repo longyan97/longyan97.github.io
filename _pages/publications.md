@@ -94,7 +94,7 @@ In Workshop on Security of Space and Satellite Systems (SpaceSec) 2023
 <br/>
 In Proceedings of the 2022 ACM/ACSA New Security Paradigms Workshop (NSPW). 2022. (Acceptance rate 38%)
 <br/>
-[[PDF]](https://arxiv.org/pdf/2301.11745.pdf)
+[[Paper Link]](https://dl.acm.org/doi/10.1145/3584318.3584321)
 
 
 * __Yan Long__, Alexander Curtiss, Sara Rampazzi, Josiah Hester, and Kevin Fu.
@@ -103,7 +103,7 @@ In Proceedings of the 2022 ACM/ACSA New Security Paradigms Workshop (NSPW). 2022
 <br/> 
 In Proceedings of the 18th Conference on Embedded Networked Sensor Systems (SenSys). 2020. <br/>
 <a href="#/" style="color:red;">Best COVID-19 Response Poster Runner-up</a> (top 8%)<br/>
-[[Website]](https://spqrlab1.github.io/N95deconProject.html)   [[Paper Link]](https://dl.acm.org/doi/abs/10.1145/3478105)  [[PDF]](/files/imwut21.pdf)  [[Code]](https://github.com/longyan97/VeriMask_Designs) 
+[[Website]](https://spqrlab1.github.io/N95deconProject.html)   [[Paper Link]](https://dl.acm.org/doi/10.1145/3384419.3430613) 
 
 
 <!-- ## Preprints

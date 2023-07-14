@@ -3,8 +3,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  
 
   - title: "Teaching"
     url: /teaching/    
@@ -21,5 +20,8 @@ main:
   - title: "Contact Me"
     url: /contact/
     
+  - title: "Talks"
+    url: /talks/  
+
   # - title: "Guide"
   #   url: /markdown/

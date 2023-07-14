@@ -8,6 +8,14 @@ author_profile: true
 
 
 ## Conferences
+The * sign stands for equal-contribution co-first authors.
+
+* Qinhong Jiang, Yanze Ren, __Yan Long__, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu
+<br/> 
+**"GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards"**
+<br/>
+In the Network and Distributed System Security Symposium (NDSS) 2024. (Under minor revision)<br/>
+
 
 * Connor Bolton*, __Yan Long*__, Jun Han, Josiah Hester, and Kevin Fu. 
 <br/> 

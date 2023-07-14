@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+The * sign stands for equal-contribution co-first authors.
 
 ## Conferences
-The * sign stands for equal-contribution co-first authors.
+
 
 * Qinhong Jiang, Yanze Ren, __Yan Long__, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu
 <br/> 

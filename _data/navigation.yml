@@ -13,15 +13,22 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
+
+  - title: "Media"
+    url: /media/  
     
   - title: "CV"
     url: /cv/
 
+
+
   - title: "Contact Me"
     url: /contact/
     
-  - title: "Talks"
-    url: /talks/  
+  # - title: "Talks"
+  #   url: /talks/  
+
+    
 
   # - title: "Guide"
   #   url: /markdown/

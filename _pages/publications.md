@@ -10,7 +10,7 @@ The * sign stands for co-first authors (equal contribution). [C]-conference, [J]
 ## 2024
 
 
-* [C8] Qinhong Jiang, Yanze Ren, __Yan Long__, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu
+* [C9] Qinhong Jiang, Yanze Ren, __Yan Long__, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu
 <br/> 
 **"GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards"**
 <br/>
@@ -19,7 +19,7 @@ In the Network and Distributed System Security Symposium (NDSS) 2024. (Under min
 
 ## 2023
 
-* [C7] Connor Bolton*, __Yan Long*__, Jun Han, Josiah Hester, and Kevin Fu. 
+* [C8] Connor Bolton*, __Yan Long*__, Jun Han, Josiah Hester, and Kevin Fu. 
 <br/> 
 **"Characterizing and Mitigating Touchtone Eavesdropping in Smartphone Motion Sensors"**
 <br/>
@@ -27,33 +27,33 @@ In the 26th International Symposium on Research in Attacks, Intrusions and Defen
 
 
 
-* [C6] __Yan Long__, Pirouz Naghavi, Blas Kojusner, Kevin Butler, Sara Rampazzi and Kevin Fu. 
+* [C7] __Yan Long__, Pirouz Naghavi, Blas Kojusner, Kevin Butler, Sara Rampazzi and Kevin Fu. 
 <br/> 
 **"Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses"**
 <br/>
 In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 17%)<br/>
-[[Website]](https://sideeyeattack.github.io/Website/)  [[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00059)  [[PDF]](/files/oakland23-sideeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=W7ljxXxOem0&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=67)
+[[Website]](https://sideeyeattack.github.io/Website/)  [[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00059)  [[PDF]](/files/oakland23-sideeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=W7ljxXxOem0&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=67)  [[Media]](/media/2-SideEye)
 
 
-* [C5] __Yan Long__, Chen Yan, Shilin Xiao, Shivan Prasad, Wenyuan Xu, and Kevin Fu. 
+* [C6] __Yan Long__, Chen Yan, Shilin Xiao, Shivan Prasad, Wenyuan Xu, and Kevin Fu. 
 <br/> 
 **"Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing"**
 <br/>
 In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 17%)<br/>
-[[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00050)  [[PDF]](/files/oakland23-privateeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=1Cz_Zp-uEE8&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=114)
+[[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00050)  [[PDF]](/files/oakland23-privateeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=1Cz_Zp-uEE8&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=114) [[Media]](/media/1-PrivateEye)
 
 
-* [C4] Benjamin Cyr,  __Yan Long__, Takeshi Sugawara and Kevin Fu. 
+* [C5] Benjamin Cyr,  __Yan Long__, Takeshi Sugawara and Kevin Fu. 
 <br/> 
 **"Space System Threat Models Must Account for Satellite Sensor Spoofing"**
 <br/>
 In Workshop on Security of Space and Satellite Systems (SpaceSec) 2023
 <br/>
-[[PDF]](/files/spacesec23.pdf)
+[[Paper Link]](https://www.ndss-symposium.org/ndss-paper/auto-draft-407/)  [[PDF]](/files/spacesec23.pdf)
 
 ## 2022
 
-* [C3] __Yan Long__ and Kevin Fu. 
+* [C4] __Yan Long__ and Kevin Fu. 
 <br/> 
 **"Side Auth: Sensor Side Channels Considered Beneficial by Synthesizing Virtual Sensors for Authentication"**
 <br/>
@@ -66,7 +66,7 @@ In Proceedings of the 2022 ACM/ACSA New Security Paradigms Workshop (NSPW). 2022
 
 ## 2021
 
-* [J2] __Yan Long__, Alexander Curtiss, Sara Rampazzi, Josiah Hester, and Kevin Fu.
+* [C3] __Yan Long__, Alexander Curtiss, Sara Rampazzi, Josiah Hester, and Kevin Fu.
 <br/> 
 **"VeriMask: Facilitating Decontamination of N95 Masks in the COVID-19 Pandemic: Challenges, Lessons Learned, and Safeguarding the Future"**
 <br/> 

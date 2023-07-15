@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Bio"
+permalink: /bio/
 author_profile: true
 redirect_from:
   - /resume
@@ -19,6 +19,7 @@ My latest CV in PDF format can be [downloaded here](/files/YanLong_CV.pdf).
 
 ## Service 
 * Reviewer of ACM TOPS, ACM IMWUT
+* Sub-reviewer of IEEE TIE, IEEE TIFS, ACM MobiCom, USENIX Security, ACM CCS
 * Organizer and panelist of the 2nd Annual Embedded Security Workshop (2020)
 
 ## Awards 

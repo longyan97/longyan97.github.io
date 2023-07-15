@@ -13,6 +13,10 @@ I'm a 4th year PhD candidate from the EECS department at the University of Michi
 * The techniques for using existing sensors to extract extra modalities of signals using data-driven approaches informed by sensor physics.
 * The downstream security and privacy problems as well as the new opportunities in biometric data collection and digital forensics. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zYT-q4dQglU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yar8wrLV9s0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## News
 
 * [June 22, 2023] Our paper on keyboard sensing security conditionally accepted at [NDSS 2024](https://www.ndss-symposium.org/ndss2024/). 

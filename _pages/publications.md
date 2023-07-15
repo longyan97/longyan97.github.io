@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-The * sign stands for co-first authors (equal contribution). [C]-conference, [J]-journal, [P]-poster
+The * sign stands for co-first authors (equal contribution). [C]-conference, [J]-journal, [P]-poster. 
+A full list of publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=1OHEpEsAAAAJ&hl=en&oi=ao). 
 
 ## 2024
 
@@ -40,7 +41,7 @@ In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S
 **"Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing"**
 <br/>
 In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 17%)<br/>
-[[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00050)  [[PDF]](/files/oakland23-privateeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=1Cz_Zp-uEE8&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=114) [[Media]](/media/1-PrivateEye)
+[[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00050)  [[PDF]](/files/oakland23-privateeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=1Cz_Zp-uEE8&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=114) [[Media]](/media/1-PrivateEye) [[Defense Tool]](https://github.com/longyan97/EyeglassFilter)
 
 
 * [C5] Benjamin Cyr,  __Yan Long__, Takeshi Sugawara and Kevin Fu. 

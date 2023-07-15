@@ -28,8 +28,10 @@ author_profile: true
 
 ## Undergrad/Master Research Mentoring
 
-* [Tobias Alam](https://www.linkedin.com/in/tobias-alam-5a4057215/), UM CSE undergrad research in Android sensing security projects, 2022-2023
-* [Yumai Sun](https://www.linkedin.com/in/yumai-sun-49107b13b/), UM ECE master research in the keyboard EMI injection project, 2022-2023
-* Haoliang Cheng, UM CSE undergrad research in the Touchscreen security projects, 2022-2023
-* Shivan Prasad, UM CSE undergrad research in the Private Eye project, 2022
-* [Weikun Lyu](https://www.researchgate.net/profile/Weikun-Lyu), UM CSE undergrad research in the VeriMask project, 2020
+As a senior PhD student, I welcome undergrad and master students to participate in productive directed research projects with me. Feel free to contact me if you are interested in research of CPS and AI/ML security. Below is a selected list of the excellent students I have worked with. 
+
+* [Tobias Alam](https://www.linkedin.com/in/tobias-alam-5a4057215/), UM CSE undergrad research in Android sensing security projects, 2 co-authored papers under review. 
+* [Yumai Sun](https://www.linkedin.com/in/yumai-sun-49107b13b/), UM ECE master research in the keyboard EMI injection project, 1 co-authored paper at NDSS 24. 
+* Haoliang Cheng, UM CSE undergrad research in the touchscreen security projects (next: CMU ECE master program).
+* Shivan Prasad, UM CSE undergrad research in the Private Eye project, 1 co-authored paper at Oakland 23.
+* [Weikun Lyu](https://www.researchgate.net/profile/Weikun-Lyu), UM CSE undergrad research in the VeriMask project (now a UM PhD student).

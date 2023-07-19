@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The * sign stands for co-first authors (equal contribution). [C]-conference, [J]-journal, [P]-poster. 
+[C]-conference, [J]-journal, [P]-poster. The * sign stands for co-first authors (equal contribution). 
 A full list of publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=1OHEpEsAAAAJ&hl=en&oi=ao). 
 
 ## 2024

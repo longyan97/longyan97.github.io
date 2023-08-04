@@ -15,7 +15,7 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 <br/> 
 **"GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards"**
 <br/>
-In the Network and Distributed System Security Symposium (NDSS) 2024. (Under minor revision)<br/>
+In the Network and Distributed System Security Symposium (NDSS) 2024. (To appear)<br/>
 
 
 ## 2023

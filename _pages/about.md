@@ -24,6 +24,7 @@ I'm a PhD candidate from the EECS department at the University of Michigan. I wo
 
 ## News
 
+* [Aug 15, 2023] I am very excited to contribute to the First International Workshop on Security and Privacy of Sensing Systems [(Sensors S&P 2023, co-located with SenSys)](https://sensorssp.github.io/sensorssp23/) as a program committee member. Please see the CFP and consider joining us in Istanbul!   
 * [July 19, 2023] I will be serving on the technical program committee of the 19th International Conference on Mobility, Sensing and Networking [(MSN 2023)](https://ieee-msn.org/2023/). The paper submission deadline is Aug 5. Please consider submitting your works here!  
 * [June 22, 2023] Our paper on keyboard sensing security conditionally accepted at [NDSS 2024](https://www.ndss-symposium.org/ndss2024/). 
 * [June 16, 2023] One co-first authored paper on Android sensor security conditionally accepted at [RAID 2023](https://raid2023.org/welcome.html). 

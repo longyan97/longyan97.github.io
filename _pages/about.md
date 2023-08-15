@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate from the EECS department at the University of Michigan. I work with my research advisor [Prof. Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) at the Security And Privacy Research Group ([SPQR](https://spqrlab1.github.io/)). I completed my B.E. degree in Electronic and Information Engineering at Zhejiang University under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) and [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en).  My research spans the intersections of embedded system security, sensing, and mobile computing, with a focus on the following topics: 
+I'm a PhD candidate from the EECS department at the University of Michigan. I work with my research advisor [Prof. Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) at the Security And Privacy Research Group ([SPQR](https://spqrlab1.github.io/)). I completed my B.E. degree in Electronic and Information Engineering at Zhejiang University under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) and [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en).  My research spans the intersections of embedded system security, sensing, and mobile computing. Specifically, I seek to ensure trustworthy and confidential sensing in user-device interactions, critical infrastructures, and emerging technologies, with a focus on addressing hardware-initiated vulnerabilities in the hardware-software interfaces.
+
+
+<!-- with a focus on the following topics: 
 * The gaps between existing computation abstractions and actual hardware/software implementations in embedded sensing systems.
 * The techniques for using existing sensors to extract extra modalities of signals using data-driven approaches informed by sensor physics.
-* The downstream security and privacy problems as well as the new opportunities in biometric data collection and digital forensics. 
+* The downstream security and privacy problems as well as the new opportunities in biometric data collection and digital forensics.  -->
 
 <iframe width="280" height="150" src="https://www.youtube.com/embed/zYT-q4dQglU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

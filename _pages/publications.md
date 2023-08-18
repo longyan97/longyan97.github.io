@@ -24,7 +24,8 @@ In the Network and Distributed System Security Symposium (NDSS) 2024. (To appear
 <br/> 
 **"Characterizing and Mitigating Touchtone Eavesdropping in Smartphone Motion Sensors"**
 <br/>
-In the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023). (Acceptance rate 23.5%) (To appear)<br/>
+In the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023). (Acceptance rate 23.5%)<br/>
+ [[PDF]](/files/raid23.pdf)
 
 
 
@@ -60,7 +61,7 @@ In Workshop on Security of Space and Satellite Systems (SpaceSec) 2023
 <br/>
 In Proceedings of the 2022 ACM/ACSA New Security Paradigms Workshop (NSPW). 2022. (Acceptance rate 38%)
 <br/>
-[[Paper Link]](https://dl.acm.org/doi/10.1145/3584318.3584321)
+[[Paper Link]](https://dl.acm.org/doi/10.1145/3584318.3584321)  [[PDF]](/files/nspw22.pdf)
 
 
 

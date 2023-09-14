@@ -10,6 +10,11 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 
 ## 2024
 
+* [C10] __Yan Long__*, Qinhong Jiang*, Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu
+<br/> 
+**"EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras"**
+<br/>
+In the Network and Distributed System Security Symposium (NDSS) 2024. (To appear)<br/>
 
 * [C9] Qinhong Jiang, Yanze Ren, __Yan Long__, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu
 <br/> 

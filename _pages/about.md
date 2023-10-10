@@ -25,8 +25,8 @@ My research is broadly in cyber-physical system (CPS) security and spans the int
 
 ## News
 
-* **[Oct 9, 2023]** I will give a joint seminar talk with Dr. Kevin Fu at [University of Washington, Seattle](https://courses.cs.washington.edu/courses/cse590y/) on Oct 11.   
-* [Oct 3, 2023] I'm giving a seminar talk regarding my graduate research on embedded and sensing security at [MIT CSAIL](https://calendar.csail.mit.edu/events/269336) on Oct 4.   
+* **[Oct 11, 2023]** I'm giving a joint seminar talk with Dr. Kevin Fu at [University of Washington, Seattle](https://courses.cs.washington.edu/courses/cse590y/).   
+* [Oct 4, 2023] I'm giving a seminar talk regarding my graduate research on embedded and sensing security at [MIT CSAIL](https://calendar.csail.mit.edu/events/269336).   
 * [Sep 15, 2023] My paper EM Eye is accepted at NDSS'24 without revisions (35 papers accepted out of 483 submitted, top 7.2%). We demonstrate how attackers may visually spy on households by analyzing side-channel EM leakage of smart home cameras owned by the victim. Demos will be put up soon!   
 * [Aug 15, 2023] I am very excited to contribute to the First International Workshop on Security and Privacy of Sensing Systems [(Sensors S&P 2023, co-located with SenSys)](https://sensorssp.github.io/sensorssp23/) as a program committee member. Please see the CFP and consider joining us in Istanbul!   
 * [July 19, 2023] I will be serving on the technical program committee of the 19th International Conference on Mobility, Sensing and Networking [(MSN 2023)](https://ieee-msn.org/2023/). The paper submission deadline is Aug 5. Please consider submitting your works here!  

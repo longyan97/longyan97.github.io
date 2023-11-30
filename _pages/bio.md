@@ -18,8 +18,8 @@ My latest CV in PDF format can be [downloaded here](/files/YanLong_CV.pdf).
 	
 
 ## Service 
-* TPC of IEEE MSN 2023， Sensors S&P 2023. 
-* Reviewer of ACM TOPS, ACM IMWUT, IEEE IOTJ
+* TPC of IEEE MSN 2023， Sensors S&P 2023, VehicleSec 2024 (Poster/Demo) 
+* Reviewer of ACM TOPS, ACM IMWUT, IEEE IOTJ, IEEE TWC
 * Sub-reviewer of IEEE TIE, IEEE TIFS, ACM MobiCom, USENIX Security, ACM CCS
 * Organizer and panelist of the 2nd Annual Embedded Security Workshop (2020)
 

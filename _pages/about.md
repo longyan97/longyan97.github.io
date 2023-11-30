@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-I'm a PhD candidate from the EECS department at the University of Michigan. I work with my research advisor [Prof. Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) at the Security And Privacy Research Group ([SPQR](https://spqrlab1.github.io/)). I completed my B.E. degree in Electronic and Information Engineering at Zhejiang University under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) and [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en).  
+I'm a PhD candidate from the EECS department at the University of Michigan. My research is broadly in cyber-physical system (CPS) security and spans the intersections of embedded system security, sensing, and mobile computing. I seek to ensure trustworthy and confidential sensing  in user-device interactions, critical infrastructures, and emerging technologies, with a focus on the hardware-software interfaces.  I am currently working with my PhD advisor [Prof. Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) at the Security And Privacy Research Group ([SPQR](https://spqrlab1.github.io/)). I completed my B.E. degree in Electronic and Information Engineering at Zhejiang University under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) and [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en).  
 
-My research is broadly in cyber-physical system (CPS) security and spans the intersections of embedded system security, sensing, and mobile computing. Specifically, I seek to ensure trustworthy and confidential sensing  in user-device interactions, critical infrastructures, and emerging technologies, with a focus on the hardware-software interfaces. 
 
-<span style="color:red">__<font size="+2">I am applying for tenure-track faculty positions this season.</font>__</span>
+
+<span style="color:rgb(231, 76, 60)">__<font size="+1">I am applying for tenure-track faculty positions this season. Please feel free to reach out if you are interested in my research and would like to read my statements.</font>__</span>
 
 
 <!-- with a focus on the following topics: 

@@ -15,12 +15,14 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 **"EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras"**
 <br/>
 In the Network and Distributed System Security Symposium (NDSS) 2024. (To appear)<br/>
+[[PDF]](/files/ndss24-emeye.pdf)
 
 * [C9] Qinhong Jiang, Yanze Ren, __Yan Long__, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu
 <br/> 
 **"GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards"**
 <br/>
 In the Network and Distributed System Security Symposium (NDSS) 2024. (To appear)<br/>
+[[PDF]](/files/ndss24-ghosttype.pdf)
 
 
 ## 2023
@@ -30,7 +32,7 @@ In the Network and Distributed System Security Symposium (NDSS) 2024. (To appear
 **"Characterizing and Mitigating Touchtone Eavesdropping in Smartphone Motion Sensors"**
 <br/>
 In the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023). (Acceptance rate 23.5%)<br/>
- [[PDF]](/files/raid23.pdf)
+[[Paper Link]](https://dl.acm.org/doi/10.1145/3607199.3607203)  [[PDF]](/files/raid23.pdf)
 
 
 

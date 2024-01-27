@@ -10,7 +10,14 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 
 ## 2024
 
-* [C10] __Yan Long__*, Qinhong Jiang\*,  Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu
+* [C11] Nina Shamsi, Kaeshav Chandrasekar, __Yan Long__, Keith Rebello, Christopher Limbach, Kevin Fu
+<br/> 
+**"WIP: Threat Modeling Laser-Induced Acoustic Interference in Computer Vision-Assisted Vehicles"**
+<br/>
+In the Symposium on Vehicle Security and Privacy (VehicleSec) 2024. (To appear)<br/>
+[[PDF]](/files/ndss24-emeye.pdf)
+
+* [C10] __Yan Long__, Qinhong Jiang,  Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu
 <br/> 
 **"EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras"**
 <br/>

@@ -15,21 +15,21 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 **"WIP: Threat Modeling Laser-Induced Acoustic Interference in Computer Vision-Assisted Vehicles"**
 <br/>
 In the Symposium on Vehicle Security and Privacy (VehicleSec) 2024. (To appear)<br/>
-<!-- [[PDF]](/files/ndss24-emeye.pdf) -->
+[[PDF]](/files/vehiclesec24.pdf)
 
 * [C10] __Yan Long__, Qinhong Jiang,  Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu
 <br/> 
 **"EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras"**
 <br/>
 In the Network and Distributed System Security Symposium (NDSS) 2024. (To appear)<br/>
-[[PDF]](/files/ndss24-emeye.pdf)
+[[Website]](https://emeyeattack.github.io/Website/)  [[PDF]](/files/ndss24-emeye.pdf)  [[Code]](https://github.com/longyan97/EMEye_Tutorial)
 
 * [C9] Qinhong Jiang, Yanze Ren, __Yan Long__, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu
 <br/> 
 **"GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards"**
 <br/>
 In the Network and Distributed System Security Symposium (NDSS) 2024. (To appear)<br/>
-[[PDF]](/files/ndss24-ghosttype.pdf)
+[[Website]](https://sites.google.com/view/ghosttype-demo)  [[PDF]](/files/ndss24-ghosttype.pdf)
 
 
 ## 2023

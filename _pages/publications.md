@@ -10,25 +10,32 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 
 ## 2024
 
+* [C12] Xingli Zhang, Yazhou Tu, __Yan Long__, Liqun Shan, Mohamed A Elsaadani, Kevin Fu, Zhiqiang Lin, Xiali Hei
+<br/> 
+**"From Virtual Touch to Tesla Command: Unlocking Unauthenticated Control Chains From Smart Glasses for Vehicle Takeover"**
+<br/>
+In Proceedings of the 45th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2024. (To appear)<br/>
+<!-- [[PDF]](/files/vehiclesec24.pdf) -->
+
 * [C11] Nina Shamsi, Kaeshav Chandrasekar, __Yan Long__, Keith Rebello, Christopher Limbach, Kevin Fu
 <br/> 
 **"WIP: Threat Modeling Laser-Induced Acoustic Interference in Computer Vision-Assisted Vehicles"**
 <br/>
-In the Symposium on Vehicle Security and Privacy (VehicleSec) 2024. (To appear)<br/>
+In the Symposium on Vehicle Security and Privacy (VehicleSec) 2024. (Acceptance rate 43%) <br/>
 [[PDF]](/files/vehiclesec24.pdf)
 
 * [C10] __Yan Long__, Qinhong Jiang,  Chen Yan, Tobias Alam, Xiaoyu Ji, Wenyuan Xu, Kevin Fu
 <br/> 
 **"EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras"**
 <br/>
-In the Network and Distributed System Security Symposium (NDSS) 2024. (To appear)<br/>
+In the Network and Distributed System Security Symposium (NDSS) 2024. (Acceptance rate 20%) <br/>
 [[Website]](https://emeyeattack.github.io/Website/)  [[PDF]](/files/ndss24-emeye.pdf)  [[Code]](https://github.com/longyan97/EMEye_Tutorial)
 
 * [C9] Qinhong Jiang, Yanze Ren, __Yan Long__, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu
 <br/> 
 **"GhostType: The Limits of Using Contactless Electromagnetic Interference to Inject Phantom Keys into Analog Circuits of Keyboards"**
 <br/>
-In the Network and Distributed System Security Symposium (NDSS) 2024. (To appear)<br/>
+In the Network and Distributed System Security Symposium (NDSS) 2024. (Acceptance rate 20%)<br/>
 [[Website]](https://sites.google.com/view/ghosttype-demo)  [[PDF]](/files/ndss24-ghosttype.pdf)
 
 

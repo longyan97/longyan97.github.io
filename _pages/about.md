@@ -25,6 +25,7 @@ I'm a PhD candidate from the EECS department at the University of Michigan. My r
 
 ## News
 
+* [Mar 8, 2024] Our paper on IoT automation chain and Tesla security is accepted at [IEEE S&P (Oakland) 2024](https://www.ieee-security.org/TC/SP2024/index.html). 
 * [Feb, 2024] I am starting to serve on the program committee of [USENIX 2024](https://www.usenix.org/conference/usenixsecurity24). 
 * **[Feb 13-16, 2024]** I will be in Singapore and give a talk at the [National University of Singapore](https://www.comp.nus.edu.sg/cs/). 
 * [Jan 25, 2024] Our threat modeling paper is appearing at [VehicleSec 2024](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/), demonstrating how acoustic interference induced by ablation and air ionization of high-power lasers could affect motion sensors, cameras, and computer vision algorithms of drones. 
@@ -42,7 +43,10 @@ I'm a PhD candidate from the EECS department at the University of Michigan. My r
 
 
 
-## Videos
+## Highlights
+
+<iframe width="280" height="150" src="https://www.youtube.com/embed/U7w2jyo62s0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+&nbsp;
 
 <iframe width="280" height="150" src="https://www.youtube.com/embed/zYT-q4dQglU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

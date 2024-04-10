@@ -24,6 +24,7 @@ My latest CV in PDF format can be [downloaded here](/files/YanLong_CV.pdf).
 * Organizer and panelist of the 2nd Annual Embedded Security Workshop (2020)
 
 ## Awards 
+* CPS Rising Stars, 2024
 * University of Michigan Rackham Predoctoral Fellowship, 2023
 * NSF/NSPW Travel Support Award, 2022
 * ACM SIGMOBILE Research Highlight (GetMobile), 2022

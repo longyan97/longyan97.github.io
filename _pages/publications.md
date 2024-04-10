@@ -30,6 +30,7 @@ In the Symposium on Vehicle Security and Privacy (VehicleSec) 2024. (Acceptance 
 <br/>
 In the Network and Distributed System Security Symposium (NDSS) 2024. (Acceptance rate 20%) <br/>
 [[Website]](https://emeyeattack.github.io/Website/)  [[PDF]](/files/ndss24-emeye.pdf)  [[Code]](https://github.com/longyan97/EMEye_Tutorial)
+[[Presentation]](https://www.youtube.com/watch?v=5oR5GU6_xnM) [[Slides]](https://drive.google.com/file/d/1e64jcNHUZ7fU5lzA6538L1vFHilDqoMB/view?usp=sharing)  
 
 * [C9] Qinhong Jiang, Yanze Ren, __Yan Long__, Chen Yan, Yumai Sun, Xiaoyu Ji, Kevin Fu, Wenyuan Xu
 <br/> 

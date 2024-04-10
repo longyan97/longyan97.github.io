@@ -25,9 +25,11 @@ I'm a PhD candidate from the EECS department at the University of Michigan. My r
 
 ## News
 
+
+* **[April 8, 2024]** I am selected as a [CPS Rising Star, Class of 2024](https://risingstars.linklab.virginia.edu/2024/). 
 * [Mar 8, 2024] Our paper on IoT automation chain and Tesla security is accepted at [IEEE S&P (Oakland) 2024](https://www.ieee-security.org/TC/SP2024/index.html). 
 * [Feb, 2024] I am starting to serve on the program committee of [USENIX 2024](https://www.usenix.org/conference/usenixsecurity24). 
-<!-- * **[Feb 13-16, 2024]** I will be in Singapore and give a talk at the [National University of Singapore](https://www.comp.nus.edu.sg/cs/).  -->
+* **[Feb 13-16, 2024]** I will be in Singapore and give a talk at the [National University of Singapore](https://www.comp.nus.edu.sg/cs/). 
 * [Jan 25, 2024] Our threat modeling paper is appearing at [VehicleSec 2024](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/), demonstrating how acoustic interference induced by ablation and air ionization of high-power lasers could affect motion sensors, cameras, and computer vision algorithms of drones. 
 * **[Oct 11, 2023]** I'm giving a joint seminar talk and research demo with Dr. Kevin Fu at [University of Washington, Seattle](https://www.cs.washington.edu/).   
 * **[Oct 4, 2023]** I'm giving a talk at [MIT CSAIL](https://calendar.csail.mit.edu/events/269336).   

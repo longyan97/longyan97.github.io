@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a PhD candidate from the EECS department at the University of Michigan. My research is broadly in cyber-physical system (CPS) security and spans the intersections of embedded system security, sensing, and mobile computing. I seek to ensure trustworthy and confidential sensing  in user-device interactions, critical infrastructures, and emerging technologies, with a focus on the hardware-software interfaces.  I am currently working with my PhD advisor [Prof. Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) at the Security And Privacy Research Group ([SPQR](https://spqrlab1.github.io/)). I completed my B.E. degree in Electronic and Information Engineering at Zhejiang University under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) and [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en).  
+I'm a PhD candidate from the EECS department at the University of Michigan. My research is broadly in cyber-physical system (CPS) security and spans the intersections of embedded system, sensing, and mobile computing. I seek to ensure trustworthy and confidential sensing  in user-device interactions, critical infrastructures, and emerging technologies, with a focus on the hardware-software interfaces.  I am currently working with my PhD advisor [Prof. Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) at the Security And Privacy Research Group ([SPQR](https://spqrlab1.github.io/)). I completed my B.E. degree in Electronic and Information Engineering at Zhejiang University under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) and [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en).  
 
 
 
@@ -25,7 +25,7 @@ I'm a PhD candidate from the EECS department at the University of Michigan. My r
 
 ## News
 
-
+* **[May  8, 2024]** Excited to win the first place in the [HOST 2024 PhD Dissertation Competition](http://www.hostsymposium.org/index.php)! 
 * **[April 8, 2024]** I am selected as a [CPS Rising Star, Class of 2024](https://risingstars.linklab.virginia.edu/2024/). 
 * [Mar 8, 2024] Our paper on IoT automation chain and Tesla security is accepted at [IEEE S&P (Oakland) 2024](https://www.ieee-security.org/TC/SP2024/index.html). 
 * [Feb, 2024] I am starting to serve on the program committee of [USENIX 2024](https://www.usenix.org/conference/usenixsecurity24). 

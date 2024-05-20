@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-My latest CV in PDF format can be [downloaded here](/files/YanLong_CV.pdf).
+<!-- My latest CV in PDF format can be [downloaded here](/files/YanLong_CV.pdf). -->
 
 ## Education 
 

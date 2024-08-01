@@ -27,7 +27,7 @@ My research is broadly in cyber-physical system (CPS) security and spans the int
 ## News
 
 
-* **[Aug 1, 2024]** I am joining Northeastern University as a one-year postdoc researcher, continuing my work with Dr. Kevin Fu. 
+* **[Aug 1, 2024]** I am joining Northeastern University in Boston as a one-year postdoc researcher, continuing my work with Dr. Kevin Fu. 
 * **[May  8, 2024]** Excited to win the first place in the [HOST 2024 PhD Dissertation Competition](http://www.hostsymposium.org/index.php)!
 * **[April 8, 2024]** I am selected as a [CPS Rising Star, Class of 2024](https://risingstars.linklab.virginia.edu/2024/). 
 * [Mar 8, 2024] Our paper on IoT automation chain and Tesla security is accepted at [IEEE S&P (Oakland) 2024](https://www.ieee-security.org/TC/SP2024/index.html). 

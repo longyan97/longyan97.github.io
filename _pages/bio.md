@@ -12,7 +12,7 @@ redirect_from:
 ## Education 
 
 * PhD in Electrical and Computer Engineering, University of Michigan
-	* Aug. 2019 - April 2024 (Expected)
+	* Aug. 2019 - April 2024 
 * B.E. in Electronic and Information Engineering, Zhejiang University
 	* Sep. 2015 - June 2019 
 	

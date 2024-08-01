@@ -14,8 +14,9 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 <br/> 
 **"From Virtual Touch to Tesla Command: Unlocking Unauthenticated Control Chains From Smart Glasses for Vehicle Takeover"**
 <br/>
-In Proceedings of the 45th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2024. (To appear)<br/>
-<!-- [[PDF]](/files/vehiclesec24.pdf) -->
+In Proceedings of the 45th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2024. (Acceptance rate 17.8%)<br/>
+<a href="#/" style="color:red;">Distinguished Paper Award</a> <br/>
+[[PDF]](/files/oakland24.pdf)   [[Demo]](https://www.youtube.com/playlist?list=PL5GANliQQ6TYZGFkMUU0kPJmOqSeDeeNy) [[Presentation]](https://www.youtube.com/watch?v=5_NGOKfUolg)
 
 * [C11] Nina Shamsi, Kaeshav Chandrasekar, __Yan Long__, Keith Rebello, Christopher Limbach, Kevin Fu
 <br/> 

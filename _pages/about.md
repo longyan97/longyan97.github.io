@@ -29,7 +29,7 @@ My research is broadly in cyber-physical system (CPS) security and spans the int
 
 * [Aug 1, 2024] I am joining Northeastern University in Boston as a one-year postdoc researcher, continuing my work with Dr. Kevin Fu. 
 * **[May  20, 2024]** Our [paper](https://yanlong.site/files/oakland24.pdf) won the [Distinguished Paper Award](https://sp2024.ieee-security.org/awards.html) at IEEE S&P (top 3% of accepted papers). 
-* **[May  8, 2024]** Excited to win the first place in the [HOST 2024 PhD Dissertation Competition](http://www.hostsymposium.org/index.php)!
+* [May  8, 2024] Excited to win the first place in the [HOST 2024 PhD Dissertation Competition](http://www.hostsymposium.org/index.php)!
 * [April 8, 2024] I am selected as a [CPS Rising Star, Class of 2024](https://risingstars.linklab.virginia.edu/2024/).  
 * [Feb, 2024] I am starting to serve on the program committee of [USENIX 2024](https://www.usenix.org/conference/usenixsecurity24). 
 * [Feb 13-16, 2024] I will be in Singapore and give a talk at the [National University of Singapore](https://www.comp.nus.edu.sg/cs/). 

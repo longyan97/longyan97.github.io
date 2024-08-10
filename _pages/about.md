@@ -27,15 +27,15 @@ My research is broadly in cyber-physical system (CPS) security and spans the int
 ## News
 
 
-* **[Aug 1, 2024]** I am joining Northeastern University in Boston as a one-year postdoc researcher, continuing my work with Dr. Kevin Fu. 
+* [Aug 1, 2024] I am joining Northeastern University in Boston as a one-year postdoc researcher, continuing my work with Dr. Kevin Fu. 
+* **[May  20, 2024]** Our [paper](https://yanlong.site/files/oakland24.pdf) won the [Distinguished Paper Award](https://sp2024.ieee-security.org/awards.html) at IEEE S&P (top 3% of accepted papers). 
 * **[May  8, 2024]** Excited to win the first place in the [HOST 2024 PhD Dissertation Competition](http://www.hostsymposium.org/index.php)!
-* **[April 8, 2024]** I am selected as a [CPS Rising Star, Class of 2024](https://risingstars.linklab.virginia.edu/2024/). 
-* [Mar 8, 2024] Our paper on IoT automation chain and Tesla security is accepted at [IEEE S&P (Oakland) 2024](https://www.ieee-security.org/TC/SP2024/index.html). 
+* [April 8, 2024] I am selected as a [CPS Rising Star, Class of 2024](https://risingstars.linklab.virginia.edu/2024/).  
 * [Feb, 2024] I am starting to serve on the program committee of [USENIX 2024](https://www.usenix.org/conference/usenixsecurity24). 
-* **[Feb 13-16, 2024]** I will be in Singapore and give a talk at the [National University of Singapore](https://www.comp.nus.edu.sg/cs/). 
+* [Feb 13-16, 2024] I will be in Singapore and give a talk at the [National University of Singapore](https://www.comp.nus.edu.sg/cs/). 
 * [Jan 25, 2024] Our threat modeling paper is appearing at [VehicleSec 2024](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/), demonstrating how acoustic interference induced by ablation and air ionization of high-power lasers could affect motion sensors, cameras, and computer vision algorithms of drones. 
-* **[Oct 11, 2023]** I'm giving a joint seminar talk and research demo with Dr. Kevin Fu at [University of Washington, Seattle](https://www.cs.washington.edu/).   
-* **[Oct 4, 2023]** I'm giving a talk at [MIT CSAIL](https://calendar.csail.mit.edu/events/269336).   
+* [Oct 11, 2023] I'm giving a joint seminar talk and research demo with Dr. Kevin Fu at [University of Washington, Seattle](https://www.cs.washington.edu/).   
+* [Oct 4, 2023] I'm giving a talk at [MIT CSAIL](https://calendar.csail.mit.edu/events/269336).   
 * [Sep 15, 2023] My paper EM Eye is accepted at NDSS'24 without revisions (35 papers accepted out of 483 submitted, top 7.2%). We demonstrate how attackers may visually spy on households by analyzing side-channel EM leakage of smart home cameras owned by the victim. Demos will be put up soon!   
 * [Aug 15, 2023] I am very excited to contribute to the First International Workshop on Security and Privacy of Sensing Systems [(Sensors S&P 2023, co-located with SenSys)](https://sensorssp.github.io/sensorssp23/) as a program committee member. Please see the CFP and consider joining us in Istanbul!   
 * [July 19, 2023] I will be serving on the technical program committee of the 19th International Conference on Mobility, Sensing and Networking [(MSN 2023)](https://ieee-msn.org/2023/). The paper submission deadline is Aug 5. Please consider submitting your works here!  

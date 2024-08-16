@@ -24,6 +24,7 @@ My latest CV in PDF format can be [downloaded here](/files/CurriculumVitae_Long.
 * Organizer and panelist of the 2nd Annual Embedded Security Workshop (2020)
 
 ## Awards 
+* Distinguished Paper Award of IEEE S&P, 2024
 * HOST Best PhD Competition Award, 2024
 * CPS Rising Stars, 2024
 * University of Michigan Rackham Predoctoral Fellowship, 2023

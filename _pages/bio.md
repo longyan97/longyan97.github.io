@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Bio"
+title: "Bio of Yan Long"
 permalink: /bio/
 author_profile: true
 redirect_from:

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yan Long's Homepage"
+title: "Yan Long"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,11 +10,12 @@ redirect_from:
 
 
 
-My research is broadly in cyber-physical system (CPS) security and spans the intersections of embedded system security, sensing, and mobile computing. I seek to ensure trustworthy and confidential sensing  in user-device interactions, critical infrastructures, and emerging technologies, with a focus on the hardware-software interfaces. I received my PhD degree from the [University of Michigan, EECS](https://eecs.engin.umich.edu/). I am currently working with my PhD advisor [Prof. Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) at the Security And Privacy Research Group ([SPQR](https://spqrlab1.github.io/)). I completed my B.E. degree in Electronic and Information Engineering at Zhejiang University under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) and [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en).  
+My research is broadly in cyber-physical system (CPS) security and spans the intersections of embedded systems, sensing, and mobile computing. I seek to ensure **trustworthy and confidential sensing-based computation** in user-device interactions, critical infrastructures, and emerging technologies, with a focus on the hardware-software interfaces. I received my PhD degree from the [University of Michigan, EECS](https://eecs.engin.umich.edu/). I am currently working with my PhD advisor [Prof. Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) at the Security And Privacy Research Group ([SPQR](https://spqrlab1.github.io/)). I completed my B.E. degree in Electronic and Information Engineering at Zhejiang University under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) and [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en).  
 
 
 
-<span style="color:rgb(231, 76, 60)">__<font size="+1">I am joining the University of Virginia, Computer Science Department as a tenure-track assistant professor starting August 2025. Feel free to shoot me an email if you are interested in working with me at UVA as a graduate/undergrad researcher. I have multiple PhD openings in the application season of fall 2024. </font>__</span>
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[Recruiting PhD Students and Interns]</font>__</span> I am joining the [Computer Science Department of the University of Virginia](https://engineering.virginia.edu/department/computer-science) as an assistant professor starting August 2025, and have multiple PhD openings in the application season of fall 2024. If you are interested in working with me as PhD students or undergrad/grad interns, I encourage you to [use this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScxbOr8iBbGeKrfdWzBFqdF-GASDRhi94EGK9xUv4zQso4ioA/viewform?usp=sf_link) to get in touch. 
+
 
 
 <!-- with a focus on the following topics: 

@@ -13,8 +13,10 @@ My latest CV in PDF format can be [downloaded here](/files/CurriculumVitae_Long.
 
 * PhD in Electrical and Computer Engineering, University of Michigan
 	* Aug. 2019 - April 2024 
+	* Advisors: Kevin Fu, Mingyan Liu
 * B.E. in Electronic and Information Engineering, Zhejiang University
 	* Sep. 2015 - June 2019 
+	* Advisors: Wenyuan Xu, Xiaoyu Ji
 	
 
 ## Service 

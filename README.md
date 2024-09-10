@@ -16,6 +16,19 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 See more info at https://academicpages.github.io/
 
+
+
+
+## Yan's install on Win
+
+1. Install Ruby and Jekll using RubyInstaller: https://jekyllrb.com/docs/installation/windows/
+But note that you need to install Ruby 3.1 (or 3.2, def not 3.3 as of Aug 2024) to avoid dependency problems in bundle install 
+2. Comment out the gem "wdm" line in the Gemfile of this folder before running the next steps of "to run locally"
+
+
+
+
+
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
 1. Clone the repository and made updates as detailed above
@@ -23,6 +36,11 @@ See more info at https://academicpages.github.io/
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+
+
+
+
+
 
 # Changelog -- bugfixes and enhancements
 

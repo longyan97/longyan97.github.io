@@ -16,7 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?    # Yan commented this out https://talk.jekyllrb.com/t/newbie-problems-with-wdm-errors/9233/2    https://github.com/jekyll/jekyll/issues/9615  
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

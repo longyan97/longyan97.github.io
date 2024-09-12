@@ -21,7 +21,7 @@ My latest CV in PDF format can be [downloaded here](/files/CurriculumVitae_Long.
 
 ## Service 
 * TPC of USENIX Security'24, VehicleSec'24 (Poster/Demo), IEEE MSN'23, Sensors S&P'23 
-* Reviewer of ACM TOPS, ACM IMWUT, IEEE IOTJ, IEEE TWC， IEEE TIFS
+* Reviewer of ACM TOPS, ACM IMWUT, IEEE IOTJ, IEEE TWC, IEEE TIFS
 * Organizer and panelist of the 2nd Annual Embedded Security Workshop (2020)
 
 ## Awards 

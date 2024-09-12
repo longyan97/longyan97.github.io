@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yan Long"
+title: "Sensing With Better Security and Privacy"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,9 @@ My research is broadly in cyber-physical system (CPS) security and privacy and s
 
 
 
-<span style="color:rgb(231, 76, 60)">__<font size="+1">[Recruiting PhD Students and Interns]</font>__</span> I am joining the [Computer Science Department of the University of Virginia](https://engineering.virginia.edu/department/computer-science) as an assistant professor starting August 2025, and have multiple PhD openings in the application season of fall 2024. If you are interested in working with me as PhD students or undergrad/grad interns, I encourage you to [use this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScxbOr8iBbGeKrfdWzBFqdF-GASDRhi94EGK9xUv4zQso4ioA/viewform?usp=sf_link) to get in touch. 
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[Recruiting PhD Students and Interns]</font>__</span> I am joining the [Computer Science Department of the University of Virginia](https://engineering.virginia.edu/department/computer-science) as an assistant professor starting August 2025, and have multiple PhD openings in the application season of fall 2024. If you are interested in working with me as PhD students or undergrad/grad interns, please feel free to send me an email with your resume. 
+
+<!-- I encourage you to [use this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScxbOr8iBbGeKrfdWzBFqdF-GASDRhi94EGK9xUv4zQso4ioA/viewform?usp=sf_link) to get in touch.  -->
 
 
 

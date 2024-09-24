@@ -14,11 +14,20 @@ My research is broadly in cyber-physical system (CPS) security and privacy and s
 
 
 
-<span style="color:rgb(231, 76, 60)">__<font size="+1">[Recruiting PhD Students and Interns]</font>__</span> I am joining the [Computer Science Department of the University of Virginia](https://engineering.virginia.edu/department/computer-science) as an assistant professor starting August 2025, and have multiple PhD openings in the application season of fall 2024. If you are interested in working with me as PhD students or undergrad/grad interns, please feel free to send me an email with your resume. 
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[Recruiting PhD Students and Interns]</font>__</span> I am joining the [Computer Science Department of the University of Virginia](https://engineering.virginia.edu/department/computer-science) as an assistant professor starting August 2025, and have multiple PhD openings in the application season of fall 2024. If you are interested in working with me as PhD students or undergrad/grad interns, please feel free to contact me with your resume:<br> 
+email [yanlong AT umich.edu] and cc [yan.long AT virginia.edu]
 
 <!-- I encourage you to [use this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScxbOr8iBbGeKrfdWzBFqdF-GASDRhi94EGK9xUv4zQso4ioA/viewform?usp=sf_link) to get in touch.  -->
 
 
+
+### Research Interests
+
+
+* Protecting user privacy from evolving sensors ([IEEE S&P'23](/files/oakland23-privateeye.pdf), [RAID'23](/files/raid23.pdf)) and side-channel problems ([IEEE S&P'23](https://sideeyeattack.github.io/Website/), [NDSS'24](https://emeyeattack.github.io/Website/))
+* Modeling the security impact of physcial signals such as acoustics, lasers, electromagentic interference on computer vision ([VehicleSec'24](/files/vehiclesec24.pdf)), speech processing ([IEEE S&P'24](/files/oakland24.pdf)), and other sensing systems ([NDSS'24](https://sites.google.com/view/ghosttype-demo))  
+* Designing novel sensing software and hardware systems for security ([ACM CCS'19](/files/ccs19.pdf), [ACM NSPW'22](/files/nspw22.pdf)) and healthcare ([UbiComp/IMWUT'21](https://spqrlab1.github.io/N95deconProject.html)) 
+* Sensing-related security and privacy problems in Android, AR/VR, and other emerging mobile computing platforms, as well as DeepFake multimedia.  
 
 <!-- with a focus on the following topics: 
 * The gaps between existing computation abstractions and actual hardware/software implementations in embedded sensing systems.
@@ -29,7 +38,7 @@ My research is broadly in cyber-physical system (CPS) security and privacy and s
 
 ## News
 
-
+* [Sep 1, 2024] We are organizing the [Northeastern Security Seminar](https://securityseminar.sites.northeastern.edu/). Please feel free to contact me if you are interested in giving a research talk in Boston. 
 * [Aug 1, 2024] I am joining Northeastern University in Boston as a one-year postdoc researcher, continuing my work with Dr. Kevin Fu. 
 * **[May  20, 2024]** Our [paper](https://yanlong.site/files/oakland24.pdf) won the [Distinguished Paper Award](https://sp2024.ieee-security.org/awards.html) at IEEE S&P (top 3% of accepted papers). 
 * [May  8, 2024] Excited to win the first place in the [HOST 2024 PhD Dissertation Competition](http://www.hostsymposium.org/index.php)!

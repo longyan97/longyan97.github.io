@@ -38,6 +38,7 @@ email **[yanlong AT umich.edu]** and cc **[yan.long AT virginia.edu]**
 
 ## News
 
+* **[Oct  10, 2024]** Our research [EM Eye, NDSS'24](https://github.com/longyan97/EMEye_Tutorial) which discovers how attackers can eavesdrop on confidential videos of IoT cameras was selected as a finalist in the [CSAW Applied Research Competition](https://www.csaw.io/research) (top 8% of all submisisons). Let's meet in NYC!
 * [Sep 1, 2024] We are organizing the [Northeastern Security Seminar](https://securityseminar.sites.northeastern.edu/). Please feel free to contact me if you are interested in giving a research talk in Boston. 
 * [Aug 1, 2024] I am joining Northeastern University in Boston as a one-year postdoc researcher, continuing my work with Dr. Kevin Fu. 
 * **[May  20, 2024]** Our [paper](https://yanlong.site/files/oakland24.pdf) won the [Distinguished Paper Award](https://sp2024.ieee-security.org/awards.html) at IEEE S&P (top 3% of accepted papers). 

@@ -59,8 +59,7 @@ email **[yanlong AT umich.edu]** and cc **[yan.long AT virginia.edu]**
 * [Mar 3, 2023] 🏅 I am honored to receive the [Rackham Predoctoral Fellowship](https://ece.engin.umich.edu/stories/yan-long-awarded-predoctoral-fellowship-to-support-research-impacting-secure-communications)! 
 * [Feb 27, 2023] We presented our position paper on future sensor spoofing threats against satellites systems in [the first Space Security Workshop](https://www.ndss-symposium.org/ndss-program/spacesec-2023/). 
 
-<br/>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=222222&w=400&t=tt&d=qw-7KviMSKIKIJZ322P9tqiNLxtNcDXkz5mAL0WL1wY&co=f6f6f6&ct=808080&cmo=2c8cf1&cmn=2c8cf1'></script>
+
 
 ## Research Highlights
 

@@ -38,6 +38,7 @@ email **[yanlong AT umich.edu]** and cc **[yan.long AT virginia.edu]**
 
 ## News
 
+* [Oct 18, 2024] 🔬 I will be serving on program committee of [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/), dedicated to the Hardware, Side Channels, and Cyber-Physical Systems Track. 
 * [Oct 18, 2024] 🔬 I will be serving on program committee of [MobiSys 2025](https://sigmobile.org/mobisys/2025/#). 
 * **[Oct  10, 2024]** 🏆 Our research [EM Eye, NDSS'24](https://github.com/longyan97/EMEye_Tutorial) which discovers how attackers can eavesdrop on confidential videos of IoT cameras was selected as a finalist in the [CSAW Applied Research Competition](https://www.csaw.io/research) (top 8% of all submisisons). Let's meet in NYC!
 * [Sep 1, 2024] We are organizing the [Northeastern Security Seminar](https://securityseminar.sites.northeastern.edu/). Please feel free to contact me if you are interested in giving a research talk in Boston. 

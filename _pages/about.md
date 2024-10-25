@@ -38,6 +38,7 @@ email **[yanlong AT umich.edu]** and cc **[yan.long AT virginia.edu]**
 
 ## News
 
+* [Oct 25, 2024] 🔬 I will be serving on program committee of [New England Hardware Security Day (NEHWS) 2025](https://nehws.org/), which will be held at MIT this year. Consider submitting your previous publications and give a talk!  
 * [Oct 18, 2024] 🔬 I will be serving on program committee of [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/), dedicated to the Hardware, Side Channels, and Cyber-Physical Systems Track. 
 * [Oct 18, 2024] 🔬 I will be serving on program committee of [MobiSys 2025](https://sigmobile.org/mobisys/2025/#). 
 * **[Oct  10, 2024]** 🏆 Our research [EM Eye, NDSS'24](https://github.com/longyan97/EMEye_Tutorial) which discovers how attackers can eavesdrop on confidential videos of IoT cameras was selected as a finalist in the [CSAW Applied Research Competition](https://www.csaw.io/research) (top 8% of all submisisons). Let's meet in NYC!
@@ -61,7 +62,8 @@ email **[yanlong AT umich.edu]** and cc **[yan.long AT virginia.edu]**
 * [Mar 3, 2023] 🏅 I am honored to receive the [Rackham Predoctoral Fellowship](https://ece.engin.umich.edu/stories/yan-long-awarded-predoctoral-fellowship-to-support-research-impacting-secure-communications)! 
 * [Feb 27, 2023] We presented our position paper on future sensor spoofing threats against satellites systems in [the first Space Security Workshop](https://www.ndss-symposium.org/ndss-program/spacesec-2023/). 
 
-
+<br/>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=222222&w=400&t=tt&d=qw-7KviMSKIKIJZ322P9tqiNLxtNcDXkz5mAL0WL1wY&co=f6f6f6&ct=808080&cmo=2c8cf1&cmn=2c8cf1'></script>
 
 ## Research Highlights
 

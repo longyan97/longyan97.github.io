@@ -14,6 +14,7 @@ redirect_from:
 * PhD in Electrical and Computer Engineering, University of Michigan
 	* Aug. 2019 - April 2024 
 	* Advisors: Kevin Fu, Mingyan Liu
+	* [My academic genealogy](https://academictree.org/computerscience/tree.php?pid=947468&fontsize=1&pnodecount=4&cnodecount=2)
 * B.E. in Electronic and Information Engineering, Zhejiang University
 	* Sep. 2015 - June 2019 
 	* Advisors: Wenyuan Xu, Xiaoyu Ji

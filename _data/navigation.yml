@@ -14,11 +14,17 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
+  - title: "Awards"
+    url: /bio/
+
+
   - title: "Media"
     url: /media/  
     
-  - title: "Awards"
-    url: /bio/
+
+
+  - title: "Talks"
+    url: /talks/
 
 
 

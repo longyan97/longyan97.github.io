@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## How Sensors Leak Your Secrets: Protecting Security and Privacy of Sensing in Modern Computer Systems
-* UMass Amherst ECE Seminar, 2024. 
+* [UMass Amherst ECE Seminar, 2024.](https://www.umass.edu/engineering/events/how-sensors-leak-your-secrets)
 * [3rd AEGIS Symposium, 2024.](https://aegis-readers.github.io/)
 
 ## Security of Computer Systems with Non-Computational Sensor Side Channels

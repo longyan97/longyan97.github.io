@@ -36,6 +36,7 @@ redirect_from:
 
 ## Service 
 * TPC of NEHWS'25, ACM CCS'25, MobiSys'25, USENIX Security'24, VehicleSec'24 (Poster/Demo), IEEE MSN'23, Sensors S&P'23 
+* Special Issue Guest Editor of MDPI Sensors 
 * Reviewer of ACM TOPS, ACM IMWUT, IEEE IOTJ, IEEE TWC, IEEE TIFS
 * Organizer and panelist of the 2nd Annual Embedded Security Workshop (2020)
 

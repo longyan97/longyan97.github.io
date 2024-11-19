@@ -36,8 +36,13 @@ email **[yanlong AT umich.edu]** and cc **[yan.long AT virginia.edu]**
 
 
 
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[Call For Papers]</font>__</span> Prof. Wayne Burleson and I are editing a Special Issue, [Sensors in Hardware Security](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW), with the Sensors journal. The special issue seeks to highlight solid research on how to use sensors for hardware security and how to protect sensors. Please check out the special issue website and consider submitting your work before May 2025! 
+
+
+
 ## News
 
+* [November, 2024] 🔬 I am guest editing the [Sensors in Hardware Security](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW) Special Issue with the Sensors Journal. The submission deadline is May 2025. 
 * [Oct 25, 2024] 🔬 I will be serving on program committee of [New England Hardware Security Day (NEHWS) 2025](https://nehws.org/), which will be held at MIT this year. Consider submitting your previous publications and give a talk!  
 * [Oct 18, 2024] 🔬 I will be serving on program committee of [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/), dedicated to the Hardware, Side Channels, and Cyber-Physical Systems Track. 
 * [Oct 18, 2024] 🔬 I will be serving on program committee of [MobiSys 2025](https://sigmobile.org/mobisys/2025/#). 

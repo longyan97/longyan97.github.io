@@ -35,9 +35,19 @@ redirect_from:
 	
 
 ## Service 
-* TPC of NEHWS'25, ACM CCS'25, MobiSys'25, USENIX Security'24, VehicleSec'24 (Poster/Demo), IEEE MSN'23, Sensors S&P'23 
-* Special Issue Guest Editor of MDPI Sensors 
-* Reviewer of ACM TOPS, ACM IMWUT, IEEE IOTJ, IEEE TWC, IEEE TIFS
-* Organizer and panelist of the 2nd Annual Embedded Security Workshop (2020)
+* Program Committee 
+	* [Sensors S&P 2025](https://emtechlab.github.io/sensors-security-privacy-workshop/)
+	* [NEHWS 2025](https://nehws.org/)
+	* [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)
+	* [MobiSys 2025](https://www.sigmobile.org/mobisys/2025/)
+	* [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)
+	* [VehicleSec (Poster/Demo) 2024](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/)
+	* [IEEE MSN 2023](https://ieee-msn.org/2023/) 
+	* [Sensors Security&Privacy 2023](https://sensorssp.github.io/sensorssp23/)
+* Special Issue Guest Editor: MDPI Sensors 
+* Journal Reviewer: ACM TOPS, ACM IMWUT, IEEE IOTJ, IEEE TWC, IEEE TIFS
+* Organizer: 
+	* 3rd Annual Embedded Security Workshop (2025)
+	* 2nd Annual Embedded Security Workshop (2020)
 
 

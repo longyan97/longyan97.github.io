@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publication"
     url: /publications/
 
   
@@ -14,7 +14,7 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "Awards"
+  - title: "Award&Service"
     url: /bio/
 
 
@@ -23,7 +23,7 @@ main:
     
 
 
-  - title: "Talks"
+  - title: "Talk"
     url: /talks/
 
 

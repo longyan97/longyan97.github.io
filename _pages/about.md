@@ -15,7 +15,7 @@ My research is broadly in cyber-physical system (CPS) security and privacy and s
 <span style="color:rgb(231, 76, 60)">__<font size="+1">[Call For Papers]</font>__</span> Prof. Wayne Burleson and I are editing a Special Issue, [Sensors in Hardware Security](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW), with the Sensors journal. The special issue seeks to highlight solid research on how to use sensors for hardware security and how to protect sensing. Please check out the special issue website and consider submitting your work before May 2025! 
 
 
-<span style="color:rgb(231, 76, 60)">__<font size="+1">[Recruiting PhD Students and Interns]</font>__</span> We are always seeking talented students who are passionate about tackling research challenges in computer security and sensing. We welcome both in-person and remote interns. For more information about our team, [check out this](yanlong.site/team/). 
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[Recruiting PhD Students and Interns]</font>__</span> We are always seeking talented students who are passionate about tackling research challenges in computer security and sensing. We welcome both in-person and remote interns. For more information about our team, [check out this](./team/). 
 
 <!-- I encourage you to [use this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScxbOr8iBbGeKrfdWzBFqdF-GASDRhi94EGK9xUv4zQso4ioA/viewform?usp=sf_link) to get in touch.  -->
 

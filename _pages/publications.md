@@ -57,7 +57,7 @@ In the 26th International Symposium on Research in Attacks, Intrusions and Defen
 **"Side Eye: Characterizing the Limits of POV Acoustic Eavesdropping from Smartphone Cameras with Rolling Shutters and Movable Lenses"**
 <br/>
 In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 17%)<br/>
-[[Website]](https://sideeyeattack.github.io/Website/)  [[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00059)  [[PDF]](/files/oakland23-sideeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=W7ljxXxOem0&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=67)  [[Media]](/media/2-SideEye)
+[[Website]](https://sideeyeattack.github.io/Website/)  [[Paper Link]](https://www.computer.org/csdl/proceedings-article/sp/2023/933600b032/1OXGSl6tea4)  [[PDF]](/files/oakland23-sideeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=W7ljxXxOem0&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=67)  [[Media]](/media/2-SideEye)
 
 
 * [C6] __Yan Long__, Chen Yan, Shilin Xiao, Shivan Prasad, Wenyuan Xu, and Kevin Fu. 
@@ -65,7 +65,7 @@ In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S
 **"Private Eye: On the Limits of Textual Screen Peeking via Eyeglass Reflections in Video Conferencing"**
 <br/>
 In Proceedings of the 44th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2023. (Acceptance rate 17%)<br/>
-[[Paper Link]](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00050)  [[PDF]](/files/oakland23-privateeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=1Cz_Zp-uEE8&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=114) [[Media]](/media/1-PrivateEye) [[Defense Tool]](https://github.com/longyan97/EyeglassFilter)
+[[Paper Link]](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a870/1OXGUMtuJLa)  [[PDF]](/files/oakland23-privateeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=1Cz_Zp-uEE8&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=114) [[Media]](/media/1-PrivateEye) [[Defense Tool]](https://github.com/longyan97/EyeglassFilter)
 
 
 * [C5] Benjamin Cyr,  __Yan Long__, Takeshi Sugawara and Kevin Fu. 

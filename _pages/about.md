@@ -15,7 +15,7 @@ My research is broadly in cyber-physical system (CPS) security and privacy and s
 <span style="color:rgb(231, 76, 60)">__<font size="+1">[Call For Papers]</font>__</span> Prof. Wayne Burleson and I are editing a Special Issue, [Sensors in Hardware Security](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW), with the Sensors journal. The special issue seeks to highlight solid research on how to use sensors for hardware security and how to protect sensing. Please check out the special issue website and consider submitting your work before May 2025! 
 
 
-<span style="color:rgb(231, 76, 60)">__<font size="+1">[Recruiting PhD Students and Interns]</font>__</span> We are always seeking talented students who are passionate about tackling research challenges in computer security and sensing. We welcome both in-person and remote interns. For more information about our team, [check out this](./team/). 
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[Recruiting PhD Students and Interns]</font>__</span> We are always seeking talented students who are passionate about tackling research challenges in computer security and sensing. We welcome both in-person and remote interns. For more information about our team, [check this out](./team/). 
 
 <!-- I encourage you to [use this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScxbOr8iBbGeKrfdWzBFqdF-GASDRhi94EGK9xUv4zQso4ioA/viewform?usp=sf_link) to get in touch.  -->
 
@@ -62,7 +62,8 @@ In <strong>NDSS 2024</strong> <br>
 * [Sep 1, 2024] We are organizing the [Northeastern Security Seminar](https://securityseminar.sites.northeastern.edu/). Please feel free to contact me if you are interested in giving a research talk in Boston. 
 * [Aug 1, 2024] I am joining Northeastern University in Boston as a one-year postdoc researcher, continuing my work with Dr. Kevin Fu. 
 * **[May  20, 2024]** 🏆 Our [paper](https://yanlong.site/files/oakland24.pdf) won the [Distinguished Paper Award](https://sp2024.ieee-security.org/awards.html) at IEEE S&P (top 3% of accepted papers). 
-* [May  8, 2024] 🏆 Excited to win the first place in the [HOST 2024 PhD Dissertation Competition](http://www.hostsymposium.org/index.php)!
+
+<!-- * [May  8, 2024] 🏆 Excited to win the first place in the [HOST 2024 PhD Dissertation Competition](http://www.hostsymposium.org/index.php)!
 * [April 8, 2024] 🏅 I am selected as a [CPS Rising Star, Class of 2024](https://risingstars.linklab.virginia.edu/2024/).  
 * [Feb, 2024] 🔬 I am starting to serve on the program committee of [USENIX 2024](https://www.usenix.org/conference/usenixsecurity24). 
 * [Feb 13-16, 2024] I will be in Singapore and give a talk at the [National University of Singapore](https://www.comp.nus.edu.sg/cs/). 
@@ -77,7 +78,7 @@ In <strong>NDSS 2024</strong> <br>
 * [April 10, 2023] Our website for the [Side Eye project](https://sideeyeattack.github.io/Website/) is up. Check out the speech samples extracted from muted videos! 
 * [Mar 27, 2023] Our position paper on [satellite security threat modeling](/files/spacesec23.pdf) is invited to be presented at [CySat 2023](https://cysat.eu/) in Paris.  
 * [Mar 3, 2023] 🏅 I am honored to receive the [Rackham Predoctoral Fellowship](https://ece.engin.umich.edu/stories/yan-long-awarded-predoctoral-fellowship-to-support-research-impacting-secure-communications)! 
-* [Feb 27, 2023] We presented our position paper on future sensor spoofing threats against satellites systems in [the first Space Security Workshop](https://www.ndss-symposium.org/ndss-program/spacesec-2023/). 
+* [Feb 27, 2023] We presented our position paper on future sensor spoofing threats against satellites systems in [the first Space Security Workshop](https://www.ndss-symposium.org/ndss-program/spacesec-2023/).  -->
 
 <br/>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=222222&w=400&t=tt&d=qw-7KviMSKIKIJZ322P9tqiNLxtNcDXkz5mAL0WL1wY&co=f6f6f6&ct=808080&cmo=2c8cf1&cmn=2c8cf1'></script>

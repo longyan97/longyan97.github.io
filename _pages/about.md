@@ -39,6 +39,19 @@ My research is broadly in cyber-physical system (CPS) security and privacy and s
 
 
 
+
+### Open-source Project & Tutorial
+
+
+<a href="https://github.com/longyan97/EMEye_Tutorial/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/longyan97/EMEye_Tutorial"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/longyan97/EMEye_Tutorial"><br>
+<img src="/images/emeye.png" width="400" alt="logo"><br>
+
+EM Eye: Eavesdropping on Embedded Cameras <br>
+In <strong>NDSS 2024</strong> <br>
+[[Website]](https://emeyeattack.github.io/Website/)  [[PDF]](/files/ndss24-emeye.pdf)  [[Code]](https://github.com/longyan97/EMEye_Tutorial)
+[[Presentation]](https://www.youtube.com/watch?v=5oR5GU6_xnM) 
+
+
 ## News
 
 * [November, 2024] 🔬 I am guest editing the [Sensors in Hardware Security](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW) Special Issue with the Sensors Journal. The submission deadline is May 2025. 

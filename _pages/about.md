@@ -49,7 +49,7 @@ My research is broadly in cyber-physical system (CPS) security and privacy and s
 EM Eye: Eavesdropping on Embedded Cameras <br>
 In <strong>NDSS 2024</strong> <br>
 [[Website]](https://emeyeattack.github.io/Website/)  [[PDF]](/files/ndss24-emeye.pdf)  [[Code]](https://github.com/longyan97/EMEye_Tutorial)
-[[Presentation]](https://www.youtube.com/watch?v=5oR5GU6_xnM) 
+[[Talk]](https://www.youtube.com/watch?v=5oR5GU6_xnM) 
 
 
 ## News

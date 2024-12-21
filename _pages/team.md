@@ -24,4 +24,4 @@ I am joining the [Computer Science Department of the University of Virginia](htt
 
 ## Lab Mascot  
 
-- [Mr. Coconut]() (A two-year old who loves eating and sleeping)  &nbsp; &nbsp; <img src="../images/coconut.png"  width="120" height="160">
+- [Mr. Coconut]() (A two-year old ragdoll; food lover)  &nbsp; &nbsp;  &nbsp; &nbsp; <img src="../images/coconut.png"  width="120" height="160">

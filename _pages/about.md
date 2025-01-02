@@ -40,7 +40,7 @@ My research is broadly in cyber-physical system (CPS) security and privacy and s
 
 
 
-### Open-source Project & Tutorial
+### Open-source Project 
 
 
 <a href="https://github.com/longyan97/EMEye_Tutorial/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/longyan97/EMEye_Tutorial"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/longyan97/EMEye_Tutorial"><br>
@@ -48,20 +48,30 @@ My research is broadly in cyber-physical system (CPS) security and privacy and s
 
 EM Eye: Eavesdropping on Embedded Cameras <br>
 In <strong>NDSS 2024</strong> <br>
-[[Website]](https://emeyeattack.github.io/Website/)  [[PDF]](/files/ndss24-emeye.pdf)  [[Code]](https://github.com/longyan97/EMEye_Tutorial)
-[[Talk]](https://www.youtube.com/watch?v=5oR5GU6_xnM) 
+[[Code]](https://github.com/longyan97/EMEye_Tutorial) [[Website]](https://emeyeattack.github.io/Website/)  [[PDF]](/files/ndss24-emeye.pdf)  [[Talk]](https://www.youtube.com/watch?v=5oR5GU6_xnM) 
+
+
+
+<a href="https://github.com/longyan97/EyeglassFilter/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/longyan97/EyeglassFilter"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/longyan97/EyeglassFilter"><br>
+<img src="/images/eyeglass-filter.png" width="400" alt="logo"><br>
+
+Private Eye: Eyeglass Reflection Leaking Screen Contents <br>
+In <strong>IEEE S&P 2023</strong> <br>
+[[Code]](https://github.com/longyan97/EyeglassFilter) [[Paper Link]](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a870/1OXGUMtuJLa)  [[PDF]](/files/oakland23-privateeye.pdf)  [[Presentation]](https://www.youtube.com/watch?v=1Cz_Zp-uEE8&list=PL0pRF4xvoD0kRsa5AeL9ncGw7CnLdIr7A&index=114) 
+
 
 
 ## News
 
-* [November, 2024] 🔬 I am guest editing the [Sensors in Hardware Security](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW) Special Issue with the Sensors Journal. The submission deadline is May 2025. 
-* [Oct 25, 2024] 🔬 I will be serving on program committee of [New England Hardware Security Day (NEHWS) 2025](https://nehws.org/), which will be held at MIT this year. Consider submitting your previous publications and give a talk!  
-* [Oct 18, 2024] 🔬 I will be serving on program committee of [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/), dedicated to the Hardware, Side Channels, and Cyber-Physical Systems Track. 
-* [Oct 18, 2024] 🔬 I will be serving on program committee of [MobiSys 2025](https://sigmobile.org/mobisys/2025/#). 
-* **[Oct  10, 2024]** 🏆 Our research [EM Eye, NDSS'24](https://github.com/longyan97/EMEye_Tutorial) which discovers how attackers can eavesdrop on confidential videos of IoT cameras was selected as a finalist in the [CSAW Applied Research Competition](https://www.csaw.io/research) (top 8% of all submisisons). Let's meet in NYC!
+* [🌎 EmSec'25] I am organizing the [2025 Embedded Security Workshop](https://spqrlab1.github.io/securityworkshop2025.html) with Prof. Kevin Fu and Prof. Wenyuan Xu. Reach out if you are interested in participating/sponsoring!
+* [🔬 Sensors Journal] I am guest editing the [Sensors in Hardware Security](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW) Special Issue with the Sensors Journal. The submission deadline is May 2025. 
+* [🔬 NEHWS'25] I will be serving on program committee of [New England Hardware Security Day (NEHWS) 2025](https://nehws.org/), which will be held at MIT this year. Consider submitting your previous publications and give a talk!  
+* [🔬 CCS'25]  I will be serving on program committee of [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/), dedicated to the Hardware, Side Channels, and Cyber-Physical Systems Track. 
+* [🔬 MobiSys'25] I will be serving on program committee of [MobiSys 2025](https://sigmobile.org/mobisys/2025/#). 
+* **[🏆 CSAW'24]** Our research [EM Eye, NDSS'24](https://github.com/longyan97/EMEye_Tutorial) which discovers how attackers can eavesdrop on confidential videos of IoT cameras was selected as a finalist in the [CSAW Applied Research Competition](https://www.csaw.io/research) (top 8% of all submisisons). Let's meet in NYC!
 * [Sep 1, 2024] We are organizing the [Northeastern Security Seminar](https://securityseminar.sites.northeastern.edu/). Please feel free to contact me if you are interested in giving a research talk in Boston. 
 * [Aug 1, 2024] I am joining Northeastern University in Boston as a one-year postdoc researcher, continuing my work with Dr. Kevin Fu. 
-* **[May  20, 2024]** 🏆 Our [paper](https://yanlong.site/files/oakland24.pdf) won the [Distinguished Paper Award](https://sp2024.ieee-security.org/awards.html) at IEEE S&P (top 3% of accepted papers). 
+* **[🏆 Oakland'24]** Our [paper](https://yanlong.site/files/oakland24.pdf) won the [Distinguished Paper Award](https://sp2024.ieee-security.org/awards.html) at IEEE S&P 2024 (top 3% of accepted papers). 
 
 <!-- * [May  8, 2024] 🏆 Excited to win the first place in the [HOST 2024 PhD Dissertation Competition](http://www.hostsymposium.org/index.php)!
 * [April 8, 2024] 🏅 I am selected as a [CPS Rising Star, Class of 2024](https://risingstars.linklab.virginia.edu/2024/).  

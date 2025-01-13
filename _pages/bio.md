@@ -36,10 +36,11 @@ redirect_from:
 
 ## Service 
 * Program Committee 
-	* [Sensors S&P 2025](https://emtechlab.github.io/sensors-security-privacy-workshop/)
-	* [NEHWS 2025](https://nehws.org/)
 	* [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/)
 	* [MobiSys 2025](https://www.sigmobile.org/mobisys/2025/)
+	* [NEHWS 2025](https://nehws.org/)
+	* [Sensors S&P 2025](https://emtechlab.github.io/sensors-security-privacy-workshop/)
+	* [ICCPS (Poster/Demo), 2025](https://iccps.acm.org/2025/index.html)
 	* [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)
 	* [VehicleSec (Poster/Demo) 2024](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/)
 	* [IEEE MSN 2023](https://ieee-msn.org/2023/) 

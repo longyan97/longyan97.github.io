@@ -63,7 +63,7 @@ In <strong>IEEE S&P 2023</strong> <br>
 
 ## News
 
-* [🌎 EmSec'25] I am organizing the [2025 Embedded Security Workshop](https://spqrlab1.github.io/securityworkshop2025.html) with Prof. Kevin Fu and Prof. Wenyuan Xu. Reach out if you are interested in participating/sponsoring!
+<!-- * [🌎 EmSec'25] I am organizing the [2025 Embedded Security Workshop](https://spqrlab1.github.io/securityworkshop2025.html) with Prof. Kevin Fu and Prof. Wenyuan Xu. Reach out if you are interested in participating/sponsoring! -->
 * [🔬 Sensors Journal] I am guest editing the [Sensors in Hardware Security](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW) Special Issue with the Sensors Journal. The submission deadline is May 2025. 
 * [🔬 NEHWS'25] I will be serving on program committee of [New England Hardware Security Day (NEHWS) 2025](https://nehws.org/), which will be held at MIT this year. Consider submitting your previous publications and give a talk!  
 * [🔬 CCS'25]  I will be serving on program committee of [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/), dedicated to the Hardware, Side Channels, and Cyber-Physical Systems Track. 

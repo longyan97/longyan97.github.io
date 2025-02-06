@@ -49,8 +49,8 @@ redirect_from:
 	* [Sensors Security&Privacy 2023](https://sensorssp.github.io/sensorssp23/)
 * Special Issue Guest Editor: MDPI Sensors 
 * Journal Reviewer: ACM TOPS, ACM IMWUT, IEEE IOTJ, IEEE TWC, IEEE TIFS
-* Organizer: 
+<!-- * Organizer: 
 	* 3rd Annual Embedded Security Workshop (2025)
-	* 2nd Annual Embedded Security Workshop (2020)
+	* 2nd Annual Embedded Security Workshop (2020) -->
 
 

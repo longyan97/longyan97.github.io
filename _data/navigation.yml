@@ -5,17 +5,10 @@ main:
 
   
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
 
-  - title: "Team"
-    url: /team/
+
+  # - title: "Team"
+  #   url: /team/
 
   - title: "Award&Service"
     url: /bio/
@@ -29,6 +22,16 @@ main:
   - title: "Talk"
     url: /talks/
 
+
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
 
 
   # - title: "Contact Me"

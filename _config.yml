@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yan LONG"
   avatar           : "yanlong.png"
-  bio              : "Assistant Professor, UVA CS"
+  bio              : # "Assistant Professor, UVA CS"
   location         : "Boston, MA, USA"
   employer         :
   pubmed           : 

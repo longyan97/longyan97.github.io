@@ -20,13 +20,12 @@ Journal of Hardware and Systems Security (Springer HaSS) 2025.  (To appear)<br/>
 
 
 
-* [C12] Nina Shamsi, __Yan Long__, Kevin Fu
+* [C13] Nina Shamsi, __Yan Long__, Kevin Fu
 <br/> 
 **"EyeHearYou: Probing Location Identification via Occluded Smartphone Cameras and Ultrasound"**
 <br/>
 In IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2025. (To appear)<br/>
-<!-- <a href="https://sp2024.ieee-security.org/awards.html" style="color:red;">Distinguished Paper Award (top 3% of accepted papers)</a> <br/>
-[[PDF]](/files/oakland24.pdf)   [[Demo]](https://www.youtube.com/playlist?list=PL5GANliQQ6TYZGFkMUU0kPJmOqSeDeeNy) [[Presentation]](https://www.youtube.com/watch?v=5_NGOKfUolg) -->
+[[PDF]](/files/host25-eyehearyou.pdf)
 
 
 ## 2024

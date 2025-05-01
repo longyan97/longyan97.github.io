@@ -4,19 +4,20 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+A full list of publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=1OHEpEsAAAAJ&hl=en&oi=ao)<br/>
+[C]-conference, [J]-journal, [P]-poster. <br/>
+*co-first authors (equal contribution); †corresponding author
 
-[C]-conference, [J]-journal, [P]-poster. The * sign stands for co-first authors (equal contribution). 
-A full list of publications can be found on my [Google Scholar page](https://scholar.google.com/citations?user=1OHEpEsAAAAJ&hl=en&oi=ao). 
 
 ## 2025
 
 
-* [J2] Benjamin Cyr, Vedant Sumaria, __Yan Long__, Srinivas Tadigadapa, Takeshi Sugawara, and Kevin Fu
+* [J2] Benjamin Cyr, Vedant Sumaria, __Yan Long†__, Srinivas Tadigadapa, Takeshi Sugawara, and Kevin Fu
 <br/> 
 **"How Lasers Exploit Photoacoustic and Photoelectric Phenomena to Inject Signals into MEMS Microphones"**
 <br/>
-Journal of Hardware and Systems Security (Springer HaSS) 2025.  (To appear)<br/>
-[[Pre-print]](https://d1wqtxts1xzle7.cloudfront.net/117885406/latest-libre.pdf?1725254855=&response-content-disposition=inline%3B+filename%3DHow_Lasers_Exploit_Photoacoustic_and_Pho.pdf&Expires=1740439796&Signature=DQ7VgoH9ZOWzlW8b1zUmM-bZBReUbD-0oqL246raJ7JaTX6CzwWpZMNTas3px2xSNwns2PwyF4CHYzEZL73sXOMR8VP76RAO3L5pFpHN0su9zIUD6RfUwsIcuzljKYZ8eo4bl~IBy2B3V3fcHdISaqTcoHhff4g~Kl6q0FIv1MKUVtfxCDlt-JCt8DYgp0OAQ1T4Eeg1gkRgoSXN8wsk8xNu8xq2YgbsZw6jAfhfUAAYfT6ykhH4n91g0E10a2pottUJyHyU2op5mu1PDUAPPbhW3JqvFJVmV3fBQWIy~j5hcoWlseL0wz4w~RR6hKtXHvH7lH-Ofm~qZS22PkWIOQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)  
+Journal of Hardware and Systems Security (Springer HaSS) 2025.<br/>
+[[Paper Link]](https://link.springer.com/article/10.1007/s41635-025-00159-9)   [[PDF]](/files/hass25.pdf)   
 
 
 
@@ -24,8 +25,8 @@ Journal of Hardware and Systems Security (Springer HaSS) 2025.  (To appear)<br/>
 <br/> 
 **"EyeHearYou: Probing Location Identification via Occluded Smartphone Cameras and Ultrasound"**
 <br/>
-In IEEE International Symposium on Hardware Oriented Security and Trust (HOST) 2025. (To appear)<br/>
-[[PDF]](/files/host25-eyehearyou.pdf)
+In IEEE International Symposium on Hardware Oriented Security and Trust (IEEE HOST) 2025.<br/>
+ [[Paper Link]](http://www.hostsymposium.org/program-html.php)    [[PDF]](/files/host25-eyehearyou.pdf) 
 
 
 ## 2024

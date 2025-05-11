@@ -12,6 +12,14 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 ## 2025
 
 
+* [C14] __Yan Long__, Jiancong Cui, Yuqing Yang, Tobias Alam, Zhiqiang Lin,  Kevin Fu
+<br/> 
+**"ARMOUR US: Android Runtime Zero-permission Sensor Usage Monitoring from User Space"**
+<br/>
+In ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec) 2025. (To appear)<br/>
+
+
+
 * [J2] Benjamin Cyr, Vedant Sumaria, __Yan Long†__, Srinivas Tadigadapa, Takeshi Sugawara, and Kevin Fu
 <br/> 
 **"How Lasers Exploit Photoacoustic and Photoelectric Phenomena to Inject Signals into MEMS Microphones"**

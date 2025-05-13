@@ -3,9 +3,6 @@ main:
   - title: "Publication"
     url: /publications/
 
-  
-
-
 
   - title: "Award&Service"
     url: /bio/
@@ -20,7 +17,7 @@ main:
     url: /talks/
 
 
-      - title: "Team"
+  - title: "Team"
     url: /team/
 
 

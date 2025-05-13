@@ -5,7 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-I am joining the [Computer Science Department of the University of Virginia](https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/phd-computer-science) as an assistant professor starting August 2025. If you are interested in working with me as PhD students or grad/undergrad interns, please feel free to contact me with your resume: email **[yan.long AT virginia.edu]**
+<!-- I am joining the [Computer Science Department of the University of Virginia](https://engineering.virginia.edu/department/computer-science/academics/graduate-programs/phd-computer-science) as an assistant professor starting August 2025. If you are interested in working with me as PhD students or grad/undergrad interns, please feel free to contact me with your resume: email **[yan.long AT virginia.edu]** -->
 
 
 ## Advisees  
@@ -22,6 +22,6 @@ I am joining the [Computer Science Department of the University of Virginia](htt
 
 
 
-## Lab Mascot  
+<!-- ## Lab Mascot  
 
-- [Mr. Coconut]() (A two-year old ragdoll; food lover)  &nbsp; &nbsp;  &nbsp; &nbsp; <img src="../images/coconut.png"  width="120" height="160">
+- [Mr. Coconut]() (A two-year old ragdoll; food lover)  &nbsp; &nbsp;  &nbsp; &nbsp; <img src="../images/coconut.png"  width="120" height="160"> -->

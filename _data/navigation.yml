@@ -7,9 +7,6 @@ main:
 
 
 
-  # - title: "Team"
-  #   url: /team/
-
   - title: "Award&Service"
     url: /bio/
 
@@ -21,6 +18,10 @@ main:
 
   - title: "Talk"
     url: /talks/
+
+
+      - title: "Team"
+    url: /team/
 
 
 

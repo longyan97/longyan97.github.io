@@ -20,6 +20,10 @@ main:
   - title: "Team"
     url: /team/
 
+    
+  # - title: "SenseCrypt Lab"
+  #   url: /lab/
+
 
 
   # - title: "Teaching"

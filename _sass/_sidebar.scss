@@ -12,12 +12,20 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  background-color: #2C5F8C !important;
+  min-height: 100vh;
+  padding: 1em;
+  position: relative;
+  color: white;
 
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
+    margin-bottom: 0;
+    position: sticky;
+    top: 0;
 
     &:hover {
       opacity: 1;
@@ -32,6 +40,7 @@
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
+    color: white;
   }
 
   h3, h4 {
@@ -42,11 +51,37 @@
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
+    color: white;
+  }
+
+  a {
+    color: white;
+    
+    &:hover {
+      color: #cccccc;
+    }
   }
 
   img {
     width: 100%;
   }
+}
+
+/* Additional specific styling to ensure blue background shows */
+.sidebar.sticky {
+  background: #2C5F8C !important;
+  color: white !important;
+}
+
+div.sidebar {
+  background: #2C5F8C !important;
+  color: white !important;
+}
+
+/* Target the specific sidebar class used in the template */
+.sidebar {
+  background: #2C5F8C !important;
+  color: white !important;
 }
 
 .sidebar__right {
@@ -231,7 +266,7 @@
     text-decoration: none;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
     }
   }
 }

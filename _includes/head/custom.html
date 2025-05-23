@@ -68,6 +68,49 @@ div.sidebar,
   color: white !important;
 }
 
+/* Specific styling for author name - center it */
+.sidebar .author__name {
+  text-align: center !important;
+  color: white !important;
+}
+
+/* Styling for Chinese name */
+.sidebar .author__chinese-name {
+  display: block;
+  font-size: 1.08em;
+  font-weight: 500;
+  color: white !important;
+  margin-top: 0.2em;
+  margin-bottom: 1em;
+  letter-spacing: 0.1em;
+}
+
+/* Make sure ALL links in sidebar are white, including Google Scholar */
+.sidebar .author__urls a,
+.sidebar .author__urls-wrapper a,
+.sidebar li a,
+.sidebar ul a,
+.sidebar .author__bio a {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.sidebar .author__urls a:hover,
+.sidebar .author__urls-wrapper a:hover,
+.sidebar li a:hover,
+.sidebar ul a:hover,
+.sidebar .author__bio a:hover {
+  color: #cccccc !important;
+  text-decoration: none !important;
+}
+
+/* Target any remaining link styles that might override */
+.sidebar a[href*="scholar"],
+.sidebar a[href*="linkedin"],
+.sidebar a[href*="github"] {
+  color: white !important;
+}
+
 /* Modern typography improvements */
 body {
   font-weight: 400 !important;

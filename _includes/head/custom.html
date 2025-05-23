@@ -167,6 +167,47 @@ h1 {
   font-weight: 700 !important;
 }
 
+/* Add dark blue underline to the main page title */
+.page__title,
+h1.page__title,
+.page__content h1:first-of-type {
+  border-bottom: 3px solid #2C5F8C !important;
+  padding-bottom: 0.5em !important;
+  margin-bottom: 1em !important;
+}
+
+/* Specific targeting for the main title if needed */
+.page__inner-wrap h1:first-child {
+  border-bottom: 3px solid #2C5F8C !important;
+  padding-bottom: 0.5em !important;
+  margin-bottom: 1em !important;
+}
+
+/* Change section breaking lines to dark blue */
+hr {
+  border-color: #2C5F8C !important;
+  background-color: #2C5F8C !important;
+  color: #2C5F8C !important;
+}
+
+/* Change section heading underlines to dark blue */
+h2, h3, h4, h5, h6 {
+  border-bottom-color: #2C5F8C !important;
+}
+
+/* Target specific section headings that might have underlines */
+.page__content h2,
+.page__content h3,
+.page__content h4 {
+  border-bottom-color: #2C5F8C !important;
+}
+
+/* Archive and content section dividers */
+.archive__item-title::after,
+.page__content .archive__item-title::after {
+  background-color: #2C5F8C !important;
+}
+
 p {
   line-height: 1.5 !important;
   color: #333333 !important;

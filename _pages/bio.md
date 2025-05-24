@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Bio of Yan Long"
 permalink: /bio/
 author_profile: true

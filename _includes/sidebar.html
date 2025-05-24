@@ -3,6 +3,18 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
+  
+  <!-- Navigation Menu Section (matching top nav) -->
+  <div class="sidebar__nav-menu">
+    <ul class="nav__menu-items">
+      <li><a href="{{ base_path }}/">[About]</a></li>
+      <li><a href="{{ base_path }}/publications/">[Publication]</a></li>
+      <li><a href="{{ base_path }}/bio/">[Bio]</a></li>
+      <li><a href="{{ base_path }}/media-talks/">[Media/Talk]</a></li>
+      <li><a href="{{ base_path }}/team/">[Team]</a></li>
+    </ul>
+  </div>
+  
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}

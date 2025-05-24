@@ -85,10 +85,13 @@ author:
   avatar           : "yanlong.png"
   bio              : # "Assistant Professor, UVA CS"
   location         : ""
+  institution      : ""
+  office           : ""
+  email            : "yanlong@umich.edu"
+  email2           : # Add second email if needed
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1OHEpEsAAAAJ&hl=en&oi=ao"
-  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

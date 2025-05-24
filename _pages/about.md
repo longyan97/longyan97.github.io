@@ -3,6 +3,7 @@ permalink: /
 title: "Sensing With Better Security and Privacy"
 excerpt: "About me"
 author_profile: true
+layout: single
 redirect_from: 
   - /about/
   - /about.html

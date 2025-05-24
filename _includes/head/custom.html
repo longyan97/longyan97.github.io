@@ -60,6 +60,13 @@
   border-color: white !important;
 }
 
+/* Center the author photo in sidebar */
+.sidebar .author__avatar {
+  text-align: center !important;
+  display: block !important;
+  margin: 0 auto !important;
+}
+
 /* Force blue background on all possible sidebar selectors */
 div.sidebar,
 .sidebar.sticky,
@@ -229,7 +236,7 @@ div.sidebar,
 /* Align social links with navigation links */
 .sidebar .author__urls li {
   margin-left: 0 !important;
-  padding-left: 0 !important;
+  padding-left: 3em !important;
 }
 
 .sidebar .author__urls a {
@@ -424,6 +431,13 @@ li {
   margin-top: 0 !important;
 }
 
+/* Adjust main content top margin from page top */
+.page,
+.archive {
+  margin-top: 0 !important;  /* ← CHANGE THIS VALUE to adjust top spacing */
+  padding-top: 0 !important;
+}
+
 /* Ensure consistent left spacing for all page layouts */
 .page,
 .archive,
@@ -443,6 +457,24 @@ article.page {
 .page__content {
   margin-left: 0 !important;
   padding-left: 0 !important;
+}
+
+/* Extend main content width by 1.1x */
+.page {
+  width: calc(75% * 1.1) !important; /* 9/12 = 75%, so 75% * 1.1 = 82.5% */
+  max-width: none !important;
+}
+
+/* Also apply to archive layout for consistency */
+.archive {
+  width: calc(75% * 1.1) !important;
+  max-width: none !important;
+}
+
+/* Ensure the main container can accommodate the wider content */
+#main {
+  max-width: none !important;
+  overflow-x: visible !important;
 }
 
 /* Add blue underlines to h3 headers that match text width */

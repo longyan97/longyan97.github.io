@@ -25,6 +25,8 @@ author_profile: true
 ### Protecting Health Care and Cyberphysical Systems 
 * UW CSE Security Seminar, 2023. 
 
+<br>
+<br>
 # Media Coverage & Discussions
 {: style="border-bottom: 3px solid #2C5F8C; padding-bottom: 0.5em; margin-bottom: 1em; margin-top: 1.5em;"}
 
@@ -41,6 +43,8 @@ author_profile: true
 * [cemaxecuter@Youtube](https://www.youtube.com/watch?v=4jsxG3-UHBA)
 
 <iframe width="280" height="150" src="https://www.youtube.com/embed/4jsxG3-UHBA?si=kocf2SHfW3qiTCVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
 
 ### Side Eye @ Oakland23: How muted smartphone videos may leak sound information
 

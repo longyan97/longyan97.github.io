@@ -83,12 +83,12 @@ author:
   name             : "Yan LONG"
   chinese_name     : "龍颜"
   avatar           : "yanlong.png"
-  bio              : # "Assistant Professor, UVA CS"
+  bio              : ""
   location         : ""
   institution      : ""
   office           : ""
-  email            : "yanlong@umich.edu"
-  email2           : # Add second email if needed
+  email            : "yanlong@hkust-gz.edu.cn"
+  email2           : ""
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=1OHEpEsAAAAJ&hl=en&oi=ao"

@@ -15,17 +15,20 @@ redirect_from:
 My research is broadly in cyber-physical system (CPS) security and privacy and spans the intersections of embedded systems, sensing, and mobile computing. I seek to ensure **trustworthy and confidential sensing-based computation** in user-device interactions, critical infrastructures, and emerging technologies, with a focus on the hardware-software interfaces. I received my PhD degree from the [University of Michigan, EECS](https://eecs.engin.umich.edu/). I am currently working with my PhD advisor [Prof. Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) (Fellow of IEEE, ACM, AAAS) at the Security And Privacy Research Group ([SPQR](https://spqrlab1.github.io/)). 
 I completed my undergraduate study at Zhejiang University under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) and [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en).  
 
-<span style="color:rgb(231, 76, 60)">__<font size="+1">[Call For Papers]</font>__</span> Prof. Wayne Burleson and I are editing a Special Issue, [Sensors in Hardware Security](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW), with the Sensors journal. The special issue seeks to highlight solid research on how to use sensors for hardware security and how to protect sensing. Please check out the special issue website and consider submitting your work before May 2025! 
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[25Fall/26Spring - Recruiting PhD Students/RAs/Research Interns]</font>__</span> Starting Fall 2025, I will be an assistant professor in the [IoT Thrust](https://iott.hkust-gz.edu.cn/) of Hong Kong University of Science and Technology (Guangzhou). I'm seeking talented students who are passionate about tackling research challenges in computer security and sensing. We welcome both in-person and remote interns.
+<!-- For more information about our PhD applications and my research lab, [check this out](./team/).  -->
+The deadline for 25Fall [PhD application](https://fytgs.hkust-gz.edu.cn/admissions) is **July 15th, 2025**. Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkust-gz.edu.cn)  
+
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[Call For Papers]</font>__</span> Prof. Wayne Burleson and I are editing a Special Issue, [Sensors in Hardware Security](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW), with the Sensors journal. The special issue seeks to highlight solid research on how to use sensors for hardware security and how to protect sensing. Please check out the special issue website and consider submitting your work before September 2025! 
 
 
-<!-- <span style="color:rgb(231, 76, 60)">__<font size="+1">[Recruiting PhD Students and Interns]</font>__</span> We are always seeking talented students who are passionate about tackling research challenges in computer security and sensing. We welcome both in-person and remote interns. For more information about our team, [check this out](./team/).  -->
+
 
 <!-- I encourage you to [use this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScxbOr8iBbGeKrfdWzBFqdF-GASDRhi94EGK9xUv4zQso4ioA/viewform?usp=sf_link) to get in touch.  -->
 
 
 
 ### Research Interests
-
 
 * Protecting user privacy from evolving sensors ([IEEE S&P'23](/files/oakland23-privateeye.pdf), [RAID'23](/files/raid23.pdf)) and side-channel problems ([IEEE S&P'23](https://sideeyeattack.github.io/Website/), [NDSS'24](https://emeyeattack.github.io/Website/))
 * Modeling the security impact of physcial signals such as acoustics, lasers, electromagentic interference on computer vision ([VehicleSec'24](/files/vehiclesec24.pdf)), speech processing ([IEEE S&P'24](/files/oakland24.pdf)), and other sensing systems ([NDSS'24](https://sites.google.com/view/ghosttype-demo))  
@@ -45,7 +48,14 @@ I completed my undergraduate study at Zhejiang University under the supervision 
 
 ### Open-source Project 
 
+<br>
+<!-- <a href="https://github.com/longyan97/EMEye_Tutorial/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/longyan97/EMEye_Tutorial"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/longyan97/EMEye_Tutorial"><br> -->
+<img src="/images/armour.gif" width="400" alt="logo"><br>
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[NEW]</font>__</span> ARMOUR: Android Runtime Zero-permission Sensor Usage Monitoring from User Space <br>
+In <strong>ACM WiSec 2025</strong> <br>
+[[Code]](https://github.com/longyan97/ARMOUR)   [[PDF]](/files/wisec25-armour.pdf) 
 
+<br>
 <a href="https://github.com/longyan97/EMEye_Tutorial/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/longyan97/EMEye_Tutorial"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/longyan97/EMEye_Tutorial"><br>
 <img src="/images/emeye.png" width="400" alt="logo"><br>
 
@@ -54,7 +64,7 @@ In <strong>NDSS 2024</strong> <br>
 [[Code]](https://github.com/longyan97/EMEye_Tutorial) [[Website]](https://emeyeattack.github.io/Website/)  [[PDF]](/files/ndss24-emeye.pdf)  [[Talk]](https://www.youtube.com/watch?v=5oR5GU6_xnM) 
 
 
-
+<br>
 <a href="https://github.com/longyan97/EyeglassFilter/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/longyan97/EyeglassFilter"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/longyan97/EyeglassFilter"><br>
 <img src="/images/eyeglass-filter.png" width="400" alt="logo"><br>
 

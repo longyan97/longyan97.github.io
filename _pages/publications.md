@@ -16,8 +16,8 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 <br/> 
 **"ARMOUR US: Android Runtime Zero-permission Sensor Usage Monitoring from User Space"**
 <br/>
-In ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec) 2025. (To appear)<br/>
-[[PDF]](/files/wisec25-armour.pdf) [[App & Data]](https://github.com/longyan97/ARMOUR) 
+In ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec) 2025. <br/>
+[[PDF]](/files/wisec25-armour.pdf) [[Code & Dataset]](https://github.com/longyan97/ARMOUR) 
 
 
 

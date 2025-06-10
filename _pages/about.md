@@ -15,7 +15,7 @@ redirect_from:
 My research is broadly in cyber-physical system (CPS) security and privacy and spans the intersections of embedded systems, sensing, and mobile computing. I seek to ensure **trustworthy and confidential sensing-based computation** in user-device interactions, critical infrastructures, and emerging technologies, with a focus on the hardware-software interfaces. I received my PhD degree from the [University of Michigan, EECS](https://eecs.engin.umich.edu/). I am currently working with my PhD advisor [Prof. Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) (Fellow of IEEE, ACM, AAAS) at the Security And Privacy Research Group ([SPQR](https://spqrlab1.github.io/)). 
 I completed my undergraduate study at Zhejiang University under the supervision of [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) (Fellow of IEEE) and [Prof. Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en).  
 
-<span style="color:rgb(231, 76, 60)">__<font size="+1">[25Fall/26Spring - Recruiting PhD Students/RAs/Research Interns]</font>__</span> Starting Fall 2025, I will be an assistant professor in the [IoT Thrust](https://iott.hkust-gz.edu.cn/) of Hong Kong University of Science and Technology (Guangzhou). I'm seeking talented students who are passionate about tackling research challenges in computer security and sensing. We welcome both in-person and remote interns.
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[25Fall/26Spring - Recruiting PhD Students/RAs/Research Interns]</font>__</span> Starting Fall 2025, I will be an assistant professor in the [IoT Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/) of Hong Kong University of Science and Technology (Guangzhou). I'm seeking talented students who are passionate about tackling research challenges in computer security and sensing. We welcome both in-person and remote interns.
 <!-- For more information about our PhD applications and my research lab, [check this out](./team/).  -->
 The deadline for 25Fall [PhD application](https://fytgs.hkust-gz.edu.cn/admissions) is **July 15th, 2025**. Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkust-gz.edu.cn)  
 
@@ -56,7 +56,7 @@ In <strong>ACM WiSec 2025</strong> <br>
 [[Code]](https://github.com/longyan97/ARMOUR)   [[PDF]](/files/wisec25-armour.pdf) 
 
 <br>
-<a href="https://github.com/longyan97/EMEye_Tutorial/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/longyan97/EMEye_Tutorial"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/longyan97/EMEye_Tutorial"><br>
+<a href="https://github.com/longyan97/EMEye_Tutorial/"><img alt="GitHub stars" src="https://img.shields.io/github/stars/longyan97/EMEye_Tutorial"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/longyan97/EMEye_Tutorial"><br>
 <img src="/images/emeye.png" width="400" alt="logo"><br>
 
 EM Eye: Eavesdropping on Embedded Cameras <br>
@@ -65,7 +65,7 @@ In <strong>NDSS 2024</strong> <br>
 
 
 <br>
-<a href="https://github.com/longyan97/EyeglassFilter/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/longyan97/EyeglassFilter"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/longyan97/EyeglassFilter"><br>
+<a href="https://github.com/longyan97/EyeglassFilter/"><img alt="GitHub stars" src="https://img.shields.io/github/stars/longyan97/EyeglassFilter"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/longyan97/EyeglassFilter"><br>
 <img src="/images/eyeglass-filter.png" width="400" alt="logo"><br>
 
 Private Eye: Eyeglass Reflection Leaking Screen Contents <br>

@@ -45,7 +45,7 @@ In IEEE International Symposium on Hardware Oriented Security and Trust (IEEE HO
 **"From Virtual Touch to Tesla Command: Unlocking Unauthenticated Control Chains From Smart Glasses for Vehicle Takeover"**
 <br/>
 In Proceedings of the 45th Annual IEEE Symposium on Security and Privacy (IEEE S&P). 2024. (Acceptance rate 17.8%)<br/>
-<a href="https://sp2024.ieee-security.org/awards.html" class="highlight-link">Distinguished Paper Award (top 3% of accepted papers)</a> <br/>
+<a href="https://sp2024.ieee-security.org/awards.html" class="highlight-link">🏆 Distinguished Paper Award (top 3% of accepted papers)</a> <br/>
 [[PDF]](/files/oakland24.pdf)   [[Demo]](https://www.youtube.com/playlist?list=PL5GANliQQ6TYZGFkMUU0kPJmOqSeDeeNy) [[Presentation]](https://www.youtube.com/watch?v=5_NGOKfUolg)
 
 * [C11] Nina Shamsi, Kaeshav Chandrasekar, __Yan Long__, Keith Rebello, Christopher Limbach, Kevin Fu
@@ -60,6 +60,7 @@ In the Symposium on Vehicle Security and Privacy (VehicleSec) 2024. (Acceptance 
 **"EM Eye: Characterizing Electromagnetic Side-channel Eavesdropping on Embedded Cameras"**
 <br/>
 In the Network and Distributed System Security Symposium (NDSS) 2024. (Acceptance rate 20%) <br/>
+<a href="https://www.csaw.io/" class="highlight-link">🏆 CSAW 2024 Applied Research Competition Award TOP-10 Finalists</a> <br/>
 [[Website]](https://emeyeattack.github.io/Website/)  [[PDF]](/files/ndss24-emeye.pdf)  [[Code]](https://github.com/longyan97/EMEye_Tutorial)
 [[Presentation]](https://www.youtube.com/watch?v=5oR5GU6_xnM) [[Slides]](https://drive.google.com/file/d/1e64jcNHUZ7fU5lzA6538L1vFHilDqoMB/view?usp=sharing)  
 
@@ -126,7 +127,7 @@ In Proceedings of the 2022 ACM/ACSA New Security Paradigms Workshop (NSPW). 2022
 **"VeriMask: Facilitating Decontamination of N95 Masks in the COVID-19 Pandemic: Challenges, Lessons Learned, and Safeguarding the Future"**
 <br/> 
 In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT/UbiComp). September 2021. (Impact Factor 4.16, acceptance rate 22%)<br/>
-<a href="https://dl.acm.org/doi/10.1145/3551670.3551679"  class="highlight-link">ACM GetMobile Research Highlight</a><br/>
+<a href="https://dl.acm.org/doi/10.1145/3551670.3551679"  class="highlight-link">🏆 ACM GetMobile Research Highlight</a><br/>
 [[Website]](https://spqrlab1.github.io/N95deconProject.html)   [[Paper Link]](https://dl.acm.org/doi/abs/10.1145/3478105)  [[PDF]](/files/imwut21.pdf)  [[Code]](https://github.com/longyan97/VeriMask_Designs) 
 
 * [J1] __Yan Long__, Sara Rampazzi, Takeshi Sugawara, and Kevin Fu.
@@ -144,7 +145,7 @@ Biomedical Instrumentation & Technology (AAMI BI&T). 2021.<br/>
 **"Automating decontamination of N95 masks for frontline workers in COVID-19 pandemic"**
 <br/> 
 In Proceedings of the 18th Conference on Embedded Networked Sensor Systems (SenSys). 2020. <br/>
-<a href="#/"  class="highlight-link">Best COVID-19 Response Poster Runner-up (top 8%)</a> <br/>
+<a href="#/"  class="highlight-link">🏆 Best COVID-19 Response Poster Runner-up (top 8%)</a> <br/>
 [[Website]](https://spqrlab1.github.io/N95deconProject.html)   [[Paper Link]](https://dl.acm.org/doi/10.1145/3384419.3430613) 
 
 

@@ -76,7 +76,7 @@ In <strong>IEEE S&P 2023</strong> <br>
 
 ## News
 
-
+* [🔬 USENIX'26] I will serve on the program committee of [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26). 
 * [Mar 17, 2025] I will give a guest lecture at [MIT 6.5950/6.5951 Secure Hardware Design](https://shd.mit.edu/2025/calendar.html).    
 * [Feb, 2025] Our work "How Lasers Exploit Photoacoustic and Photoelectric Phenomena to Inject Signals into MEMS Microphones" is accepted by Journal of Hardware and Systems Security. 
 * [Feb, 2025] Our work "EyeHearYou: Probing Location Identification via Occluded Smartphone Cameras and Ultrasound" will appear at IEEE HOST 2025. 

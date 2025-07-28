@@ -112,13 +112,12 @@ div.sidebar,
   text-decoration: none !important;
 }
 
-/* Specific styling for author name - center it */
+/* Author name styling */
 .sidebar .author__name {
   text-align: center !important;
   color: white !important;
 }
 
-/* Styling for Chinese name */
 .sidebar .author__chinese-name {
   display: block;
   font-size: 1.08em;
@@ -127,6 +126,13 @@ div.sidebar,
   margin-top: 0.2em;
   margin-bottom: 0.2em;
   letter-spacing: 0.1em;
+}
+
+/* Author bio container - use flexbox for reordering */
+.sidebar .author__content {
+  display: flex !important;
+  flex-direction: column !important;
+  text-align: center !important;
 }
 
 /* Author contact information styling */
@@ -139,9 +145,48 @@ div.sidebar,
   text-align: center !important;
 }
 
-/* Add more space between email and social links */
+/* Hide empty email field to prevent spacing */
+.sidebar .author__email:empty,
+.sidebar .author__email:not(:empty):before {
+  display: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 0 !important;
+}
+
 .sidebar .author__email {
   margin-bottom: 1.5em !important;
+}
+
+/* Style the bio/position text and place it before institution */
+.sidebar .author__bio {
+  font-size: 0.85em !important;
+  font-weight: 500 !important;
+  margin: 0.4em 0 0.2em 0 !important;
+  text-align: center !important;
+  order: 1 !important;
+  color: white !important;
+}
+
+/* Make institution text much smaller and ensure it fits in 2 lines */
+.sidebar .author__institution {
+  font-size: 0.68em !important;
+  line-height: 1.2 !important;
+  margin: 0.1em 0 1.5em 0 !important;
+  max-width: 95% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  word-spacing: -0.1em !important;
+  order: 2 !important;
+}
+
+/* Style the office/position text (if used) */
+.sidebar .author__office {
+  font-size: 0.85em !important;
+  font-weight: 500 !important;
+  margin: 0.2em 0 0.5em 0 !important;
+  text-align: center !important;
+  color: white !important;
 }
 
 /* Restore original social links styling */
@@ -511,7 +556,6 @@ article.page {
 </style>
 
 <script>
-// Hide empty page titles after DOM loads
 document.addEventListener('DOMContentLoaded', function() {
   const pageTitle = document.querySelector('.page__title, h1.page__title');
   if (pageTitle && (pageTitle.textContent.trim() === '' || pageTitle.textContent.trim() === '""')) {
@@ -519,6 +563,15 @@ document.addEventListener('DOMContentLoaded', function() {
     pageTitle.style.border = 'none';
     pageTitle.style.margin = '0';
     pageTitle.style.padding = '0';
+  }
+
+  // Hide empty email field
+  const emailElement = document.querySelector('.sidebar .author__email');
+  if (emailElement && (emailElement.textContent.trim() === '' || emailElement.textContent.trim() === '""')) {
+    emailElement.style.display = 'none';
+    emailElement.style.margin = '0';
+    emailElement.style.padding = '0';
+    emailElement.style.height = '0';
   }
 });
 </script>

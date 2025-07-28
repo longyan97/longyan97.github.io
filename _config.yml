@@ -83,11 +83,11 @@ author:
   name             : "Yan LONG"
   chinese_name     : "龍颜"
   avatar           : "yanlong.png"
-  bio              : ""
+  bio              : "Assistant Professor"
   location         : ""
-  institution      : ""
+  institution      : "Hong Kong University of Science and Technology (Guangzhou)"
   office           : ""
-  email            : "yanlong@hkust-gz.edu.cn"
+  email            : # "yanlong@hkust-gz.edu.cn"
   email2           : ""
   employer         :
   pubmed           : 

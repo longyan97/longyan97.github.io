@@ -12,6 +12,14 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 ## 2025
 
 
+* [C15] Hui Zhuang, __Yan Long†__, Kevin Fu
+<br/> 
+**"RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection"**
+<br/>
+In the 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025, to appear). <br/>
+<!-- [[PDF]](/files/wisec25-armour.pdf) [[Code & Dataset]](https://github.com/longyan97/ARMOUR)  -->
+
+
 * [C14] __Yan Long__, Jiancong Cui, Yuqing Yang, Tobias Alam, Zhiqiang Lin,  Kevin Fu
 <br/> 
 **"ARMOUR US: Android Runtime Zero-permission Sensor Usage Monitoring from User Space"**

@@ -16,15 +16,15 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 <br/> 
 **"RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection"**
 <br/>
-In the 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2025, to appear). <br/>
-<!-- [[PDF]](/files/wisec25-armour.pdf) [[Code & Dataset]](https://github.com/longyan97/ARMOUR)  -->
+In the 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID) 2025. (Acceptance rate 25%)<br/>
+[[PDF]](/files/raid25-rfeyed.pdf)  
 
 
 * [C14] __Yan Long__, Jiancong Cui, Yuqing Yang, Tobias Alam, Zhiqiang Lin,  Kevin Fu
 <br/> 
 **"ARMOUR US: Android Runtime Zero-permission Sensor Usage Monitoring from User Space"**
 <br/>
-In ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec) 2025. <br/>
+In ACM Conference on Security and Privacy in Wireless and Mobile Networks (ACM WiSec) 2025. (Acceptance rate 16%)<br/>
 [[PDF]](/files/wisec25-armour.pdf) [[Code & Dataset]](https://github.com/longyan97/ARMOUR) 
 
 
@@ -42,7 +42,7 @@ Journal of Hardware and Systems Security (Springer HaSS) 2025.<br/>
 <br/> 
 **"EyeHearYou: Probing Location Identification via Occluded Smartphone Cameras and Ultrasound"**
 <br/>
-In IEEE International Symposium on Hardware Oriented Security and Trust (IEEE HOST) 2025.<br/>
+In IEEE International Symposium on Hardware Oriented Security and Trust (IEEE HOST) 2025. (Acceptance rate 25%)<br/>
  [[Paper Link]](http://www.hostsymposium.org/program-html.php)    [[PDF]](/files/host25-eyehearyou.pdf) 
 
 

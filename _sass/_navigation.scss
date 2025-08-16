@@ -177,12 +177,23 @@
   min-width: 250px;
   background: $background-color;
 
+  @media screen and (max-width: $small) {
+    min-width: auto;
+    width: 100%;
+  }
+
   a {
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+
+    @media screen and (max-width: $small) {
+      margin: 0 0.5rem;
+      padding: 0.3rem 0;
+      font-size: 0.9em;
+    }
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -199,10 +210,22 @@
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
+
+    @media screen and (max-width: $small) {
+      height: 40px;
+      top: 50%;
+      transform: translateY(-50%);
+    }
   }
 
   .visible-links {
     display: table;
+    
+    @media screen and (max-width: $small) {
+      display: flex;
+      align-items: center;
+      height: 40px;
+    }
 
     li {
       display: table-cell;

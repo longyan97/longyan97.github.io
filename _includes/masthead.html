@@ -6,17 +6,11 @@
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
-          {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
-              {% else %}
-              {% assign domain = base_path %}
-            {% endif %}
-            <li class="masthead__menu-item">
-              <a href="{{ domain }}{{ link.url }}" {% if page.url contains link.url %}class="active"{% endif %}>{{ link.title }}</a>
-            </li>
-          {% endfor %}
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/" {% if page.url == '/' %}class="active"{% endif %}>{{ site.title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ base_path }}/publications/" {% if page.url contains '/publications/' %}class="active"{% endif %}>[Publication]</a></li>
+          <li class="masthead__menu-item"><a href="{{ base_path }}/bio/" {% if page.url contains '/bio/' %}class="active"{% endif %}>[Bio]</a></li>
+          <li class="masthead__menu-item"><a href="{{ base_path }}/media-talks/" {% if page.url contains '/media-talks/' %}class="active"{% endif %}>[Media/Talk]</a></li>
+          <li class="masthead__menu-item"><a href="{{ base_path }}/team/" {% if page.url contains '/team/' %}class="active"{% endif %}>[Research Team]</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

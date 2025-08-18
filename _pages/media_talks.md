@@ -20,7 +20,7 @@ author_profile: true
 * [New England Hardware Security Day, 2024](https://nehws.org/program/)
 
 ### Security of Computer Systems with Non-Computational Sensor Side Channels
-* [MIT CSAIL Security Seminar, 2023.](https://calendar.csail.mit.edu/events/269336)
+* [MIT CSAIL Security Seminar, 2023.](https://www.csail.mit.edu/event/security-computer-systems-non-computational-sensor-side-channels)
 
 ### Protecting Health Care and Cyberphysical Systems 
 * UW CSE Security Seminar, 2023. 

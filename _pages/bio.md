@@ -48,8 +48,9 @@ redirect_from:
 	* [VehicleSec (Poster/Demo) 2024](https://www.ndss-symposium.org/ndss2024/co-located-events/vehiclesec/)
 	* [IEEE MSN 2023](https://ieee-msn.org/2023/) 
 	* [Sensors Security&Privacy 2023](https://sensorssp.github.io/sensorssp23/)
-* Special Issue Guest Editor: MDPI Sensors 
-* Journal Reviewer: ACM TOPS, ACM IMWUT, IEEE IOTJ, IEEE TWC, IEEE TIFS
+* Special Issue Guest Editor: [Sensors](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW) 
+* Journal Reviewer: [IEEE TIFS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), [IEEE TDSC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858), [ACM TOPS](https://dl.acm.org/journal/tops), [ACM IMWUT](https://dl.acm.org/journal/imwut), [IEEE TWC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693), [IEEE IOTJ](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907)
+
 
 
 

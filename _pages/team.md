@@ -46,3 +46,9 @@ Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkus
 <!-- ## Lab Mascot  
 
 - [Mr. Coconut]() (A two-year old ragdoll; food lover)  &nbsp; &nbsp;  &nbsp; &nbsp; <img src="../images/coconut.png"  width="120" height="160"> -->
+
+
+
+
+## Thesis Committee/Jury
+- [Mortaza HASSANI](https://www.linkedin.com/in/mortazahassani/), Cybersecurity MS Thesis @ Universite Libre de Bruxelles, 2025

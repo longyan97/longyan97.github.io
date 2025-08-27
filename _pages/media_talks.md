@@ -32,9 +32,9 @@ author_profile: true
 
 ### EM Eye @ NDSS24: How smartphone and home security cameras leak videos
 
+* [Keysight](https://www.riscure.com/security-highlight-unveiling-em-eye-a-new-vulnerability-in-embedded-cameras/)
 * [RTL-SDR](https://www.rtl-sdr.com/em-eye-eavesdropping-on-security-camera-via-unintentional-rf-emissions/)
 * [TechRadar](https://www.techradar.com/pro/anywhere-theres-a-camera-now-theres-a-risk-billions-of-users-at-risk-of-peeping-toms-scientists-devise-incredibly-simple-eavesdropping-system-costing-only-a-few-hundred-dollars)
-* [Riscure](https://www.riscure.com/security-highlight-unveiling-em-eye-a-new-vulnerability-in-embedded-cameras/)
 * [eeNews](https://www.eenewseurope.com/en/em-eye-emside-channel-eavesdropping-on-embedded-cameras/)
 * [Industry Tap](https://www.industrytap.com/em-eye-unveiled-turning-security-cameras-into-spies/71539)
 * [Tech Xplore](https://techxplore.com/news/2024-02-camera-hackers-spy-cameras-walls.html)
@@ -48,6 +48,8 @@ author_profile: true
 
 ### Side Eye @ Oakland23: How muted smartphone videos may leak sound information
 
+* [IFLScience](https://www.iflscience.com/its-possible-to-extract-audio-from-a-still-soundless-image-70869)
+* [Cybernews](https://cybernews.com/news/audio-extraction-photo-video-smartphone/)
 * [DirectDefense](https://www.directdefense.com/is-this-thing-on-privacy-and-your-smartphone-microphone/)
 * [ITmedia](https://www.itmedia.co.jp/news/articles/2305/22/news058.html)
 * [SecurityWeek](https://www.securityweek.com/researchers-extract-sounds-from-still-images-on-smartphone-cameras/)
@@ -57,7 +59,7 @@ author_profile: true
 ### Private Eye @ Oakland23: The threat of leaking screen contents vias eyeglass reflections in video conferencing
 
 * [The Register](https://www.theregister.com/2022/09/17/glasses_reflections_zoom/)
-* [Bitdefender](https://www.bitdefender.com/blog/hotforsecurity/reflections-in-your-glasses-can-leak-information-while-youre-on-a-zoom-call/), 
+* [Bitdefender](https://www.bitdefender.com/blog/hotforsecurity/reflections-in-your-glasses-can-leak-information-while-youre-on-a-zoom-call/)
 * [Tech.co](https://tech.co/news/eyeglass-reflection-private-data-zoom)
 * [Schneier on Security](https://www.schneier.com/blog/archives/2022/09/leaking-screen-information-on-zoom-calls-through-reflections-in-eyeglasses.html)
 * [Reddit](https://www.reddit.com/r/blueteamsec/comments/xgggwc/220503971_private_eye_on_the_limits_of_textual/)

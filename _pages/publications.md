@@ -12,6 +12,13 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 ## 2025
 
 
+* [C16] Hui Zhuang, Yan Long, Duyeong Kim, Jennifer R. Amos, Heejo Lee, Kevin Fu
+<br/> 
+**"Probing Challenges and Future Research of SBOM Generation for Medical Devices**
+<br/>
+In Healthcare Security Workshop (HealthSec) 2025 (to appear)<br/>
+<!-- [[PDF]](/files/raid25-rfeyed.pdf)   -->
+
 * [C15] Hui Zhuang, __Yan Long†__, Kevin Fu
 <br/> 
 **"RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection"**

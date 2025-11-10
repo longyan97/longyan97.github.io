@@ -36,3 +36,28 @@
     }
   }
 }
+
+
+
+
+/* ---- Sidebar height & stickiness override (compile last) ---- */
+/* Base (mobile/tablet): do NOT force full-height or sticky */
+body .sidebar {
+  min-height: auto !important;
+  position: static !important;
+}
+
+/* Desktop and up: allow sticky, but not forced height yet */
+@include breakpoint($large) {
+  body .sidebar {
+    position: sticky !important;
+    top: 0;
+  }
+}
+
+/* Only on very wide screens: full-height is OK */
+@include breakpoint($x-large) {
+  body .sidebar {
+    min-height: 100vh !important;
+  }
+}

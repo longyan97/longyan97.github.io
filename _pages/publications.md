@@ -16,8 +16,8 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 <br/> 
 **"Probing Challenges and Future Research of SBOM Generation for Medical Devices**
 <br/>
-In ACSAC Workshop of Cybersecurity In Healthcare” (HealthSec) 2025 (to appear)<br/>
-<!-- [[PDF]](/files/raid25-rfeyed.pdf)   -->
+In ACSAC Workshop of Cybersecurity In Healthcare” (HealthSec) 2025<br/>
+[[PDF]](/files/healthsec25.pdf)  
 
 * [C15] Hui Zhuang, __Yan Long†__, Kevin Fu
 <br/> 

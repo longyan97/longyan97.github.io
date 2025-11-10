@@ -32,6 +32,7 @@ author_profile: true
 
 ### EM Eye @ NDSS24: How smartphone and home security cameras leak videos
 
+* [Fox News](https://www.foxnews.com/tech/creepy-tool-lets-criminal-hackers-access-home-video-cameras)
 * [Keysight](https://www.riscure.com/security-highlight-unveiling-em-eye-a-new-vulnerability-in-embedded-cameras/)
 * [RTL-SDR](https://www.rtl-sdr.com/em-eye-eavesdropping-on-security-camera-via-unintentional-rf-emissions/)
 * [TechRadar](https://www.techradar.com/pro/anywhere-theres-a-camera-now-theres-a-risk-billions-of-users-at-risk-of-peeping-toms-scientists-devise-incredibly-simple-eavesdropping-system-costing-only-a-few-hundred-dollars)

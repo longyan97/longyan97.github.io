@@ -20,6 +20,10 @@ Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkus
 
 - [Haoran Yan]() (PhD student at HKUST(GZ), since 2025) <img src="../images/HaoranYan.png"  width="60" height="60">
 
+- [Yaxin Li]() (MPhil student at HKUST(GZ), since 2025) &nbsp; <img src="../images/YaxinLi.jpg"  width="60" height="60">
+
+- [Shuhao Zhang]() (MPhil student at HKUST(GZ), since 2025) &nbsp; <img src="../images/ShuhaoZhang.jpg"  width="60" height="60">
+
 - [Jiancong Cui](https://jiancongcui.github.io/) (PhD student at Northeastern University, since 2024) <img src="../images/JiancongCui.png"  width="60" height="60">
 
 - [Hui Zhuang](https://zhuang-hui.github.io/) (PhD student at Northeastern University, since 2024) &nbsp; <img src="../images/HuiZhuang.png"  width="60" height="60">

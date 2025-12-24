@@ -9,12 +9,20 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 *co-first authors (equal contribution); †corresponding author
 
 
+## 2026
+* [C17] Qinhong Jiang*, Yan Long*, Youqian Zhang*, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu
+<br/> 
+**"SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks"**
+<br/>
+In The USENIX Security Symposium (USENIX) 2026 (to appear)<br/>
+<!-- [[PDF]](/files/healthsec25.pdf)   -->
+
 ## 2025
 
 
 * [C16] Hui Zhuang, Yan Long, Duyeong Kim, Jennifer R. Amos, Heejo Lee, Kevin Fu
 <br/> 
-**"Probing Challenges and Future Research of SBOM Generation for Medical Devices**
+**"Probing Challenges and Future Research of SBOM Generation for Medical Devices"**
 <br/>
 In ACSAC Workshop of Cybersecurity In Healthcare” (HealthSec) 2025<br/>
 [[PDF]](/files/healthsec25.pdf)  
@@ -24,7 +32,7 @@ In ACSAC Workshop of Cybersecurity In Healthcare” (HealthSec) 2025<br/>
 **"RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection"**
 <br/>
 In the 28th International Symposium on Research in Attacks, Intrusions and Defenses (RAID) 2025. (Acceptance rate 25%)<br/>
-[[PDF]](/files/raid25-rfeyed.pdf)  
+[[Paper Link]](https://raid2025.github.io/program.html)  [[PDF]](/files/raid25-rfeyed.pdf)  
 
 
 * [C14] __Yan Long__, Jiancong Cui, Yuqing Yang, Tobias Alam, Zhiqiang Lin,  Kevin Fu

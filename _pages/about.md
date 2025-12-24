@@ -74,6 +74,7 @@ In <strong>IEEE S&P 2023</strong> <br>
 
 ## News
 
+* [Dec, 2025] Our SoK paper "SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks" is accepted at USENIX'26. 
 * [Aug, 2025] Our work "RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection" is accepted at RAID'25. 
 * [🔬 USENIX'26] I will serve on the program committee of [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26). 
 * [Mar 17, 2025] I will give a guest lecture at [MIT 6.5950/6.5951 Secure Hardware Design](https://shd.mit.edu/2025/calendar.html).    

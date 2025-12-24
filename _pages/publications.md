@@ -10,7 +10,7 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 
 
 ## 2026
-* [C17] Qinhong Jiang*, Yan Long*, Youqian Zhang*, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu
+* [C17] Qinhong Jiang<sup>*</sup>, __Yan Long<sup>*</sup>__, Youqian Zhang<sup>*</sup>, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu
 <br/> 
 **"SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks"**
 <br/>
@@ -20,7 +20,7 @@ In The USENIX Security Symposium (USENIX) 2026 (to appear)<br/>
 ## 2025
 
 
-* [C16] Hui Zhuang, Yan Long, Duyeong Kim, Jennifer R. Amos, Heejo Lee, Kevin Fu
+* [C16] Hui Zhuang, __Yan Long__, Duyeong Kim, Jennifer R. Amos, Heejo Lee, Kevin Fu
 <br/> 
 **"Probing Challenges and Future Research of SBOM Generation for Medical Devices"**
 <br/>

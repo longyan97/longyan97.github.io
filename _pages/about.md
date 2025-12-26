@@ -29,7 +29,7 @@ My research has been recognized by the [IEEE S&P Distinguished Paper Award](http
 ### Research Interests
 
 * Protecting user privacy from evolving sensors ([IEEE S&P'23](/files/oakland23-privateeye.pdf), [RAID'23](/files/raid23.pdf)) and side-channel problems ([IEEE S&P'23](https://sideeyeattack.github.io/Website/), [NDSS'24](https://emeyeattack.github.io/Website/))
-* Modeling the security impact of physcial signals such as acoustics, lasers, electromagentic interference on computer vision ([RAID'25](/files/raid25-rfeyed.pdf), [VehicleSec'24](/files/vehiclesec24.pdf)), speech processing ([IEEE S&P'24](/files/oakland24.pdf)), and other sensing systems ([NDSS'24](https://sites.google.com/view/ghosttype-demo))  
+* Modeling the security impact of physcial signals such as acoustics, lasers, electromagentic interference on computer vision ([RAID'25](/files/raid25-rfeyed.pdf), [VehicleSec'24](/files/vehiclesec24.pdf)), speech processing ([IEEE S&P'24](/files/oakland24.pdf)), and other sensing systems ([USENIX'26](), [NDSS'24](https://sites.google.com/view/ghosttype-demo))  
 * Designing novel sensing software and hardware systems for security ([ACM CCS'19](/files/ccs19.pdf), [ACM NSPW'22](/files/nspw22.pdf)) and healthcare ([UbiComp/IMWUT'21](https://spqrlab1.github.io/N95deconProject.html)) 
 * Sensing-related security and privacy problems in Android ([WiSec'25](/files/wisec25-armour.pdf)), AR/VR, and other emerging mobile computing platforms, as well as DeepFake multimedia.  
 

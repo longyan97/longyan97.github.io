@@ -15,7 +15,7 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 **"SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks"**
 <br/>
 In The USENIX Security Symposium (USENIX) 2026 (to appear)<br/>
-<!-- [[PDF]](/files/healthsec25.pdf)   -->
+[[PDF]](/files/usenix26-sok.pdf)   [[BibTeX]](/files/usenix26-sok-bibtex.txt) 
 
 ## 2025
 

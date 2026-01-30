@@ -1,0 +1,8 @@
+@inproceedings{Jiang2026SoKIEMI,
+  author    = {Jiang, Qinhong and Long, Yan and Zhang, Youqian and Yan, Chen and Ji, Xiaoyu and Luo, Xiapu and Fu, Kevin and Cao, Jiannong and Xu, Wenyuan},
+  title     = {SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks},
+  booktitle = {Proceedings of the 35th USENIX Security Symposium (USENIX Security'26)},
+  year      = {2026},
+  address   = {Baltimore, MD, USA},
+  publisher = {USENIX Association},
+}

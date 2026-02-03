@@ -74,6 +74,7 @@ In <strong>IEEE S&P 2023</strong> <br>
 
 ## News
 
+* [Feb, 2026] Serving on the program committee of Dependable and Secure Machine Learning (DSLM 2026). 
 * [Dec, 2025] Our SoK paper "SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks" is accepted at USENIX'26. 
 * [Aug, 2025] Our work "RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection" is accepted at RAID'25. 
 * [🔬 USENIX'26] I will serve on the program committee of [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26). 

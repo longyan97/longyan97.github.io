@@ -74,16 +74,17 @@ In <strong>IEEE S&P 2023</strong> <br>
 
 ## News
 
+* [Feb, 2026] Glad to serve on the program committee of [New England Hardware Security Day (NEHWS) 2026](https://nehws.org/) again and reunite with the community!
 * [Feb, 2026] Serving on the program committee of Dependable and Secure Machine Learning (DSLM 2026). 
 * [Dec, 2025] Our SoK paper "SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks" is accepted at USENIX'26. 
-* [Aug, 2025] Our work "RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection" is accepted at RAID'25. 
+<!-- * [Aug, 2025] Our work "RF-Eye-D: Probing Feasibility of CMOS Camera Watermarking with Radio-Frequency Injection" is accepted at RAID'25.  -->
 * [🔬 USENIX'26] I will serve on the program committee of [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26). 
 * [Mar 17, 2025] I will give a guest lecture at [MIT 6.5950/6.5951 Secure Hardware Design](https://shd.mit.edu/2025/calendar.html).    
-* [Feb, 2025] Our work "How Lasers Exploit Photoacoustic and Photoelectric Phenomena to Inject Signals into MEMS Microphones" is accepted by Journal of Hardware and Systems Security. 
+<!-- * [Feb, 2025] Our work "How Lasers Exploit Photoacoustic and Photoelectric Phenomena to Inject Signals into MEMS Microphones" is accepted by Journal of Hardware and Systems Security.  -->
 <!-- * [Feb, 2025] Our work "EyeHearYou: Probing Location Identification via Occluded Smartphone Cameras and Ultrasound" will appear at IEEE HOST 2025.  -->
 <!-- * [🌎 EmSec'25] I am organizing the [2025 Embedded Security Workshop](https://spqrlab1.github.io/securityworkshop2025.html) with Prof. Kevin Fu and Prof. Wenyuan Xu. Reach out if you are interested in participating/sponsoring! -->
 * [🔬 Sensors Journal] I am guest editing the [Sensors in Hardware Security](https://www.mdpi.com/journal/sensors/special_issues/58QBF63WFW) Special Issue with the Sensors Journal. The submission deadline is May 2025. 
-* [🔬 NEHWS'25] I will be serving on program committee of [New England Hardware Security Day (NEHWS) 2025](https://nehws.org/), which will be held at MIT this year. Consider submitting your previous publications and give a talk!  
+<!-- * [🔬 NEHWS'25] I will be serving on program committee of [New England Hardware Security Day (NEHWS) 2025](https://nehws.org/), which will be held at MIT this year. Consider submitting your previous publications and give a talk!   -->
 * [🔬 CCS'25]  I will be serving on program committee of [ACM CCS 2025](https://www.sigsac.org/ccs/CCS2025/), dedicated to the Hardware, Side Channels, and Cyber-Physical Systems Track. 
 * [🔬 MobiSys'25] I will be serving on program committee of [MobiSys 2025](https://sigmobile.org/mobisys/2025/#). 
 * **[🏆 CSAW'24]** Our research [EM Eye, NDSS'24](https://github.com/longyan97/EMEye_Tutorial) which discovers how attackers can eavesdrop on confidential videos of IoT cameras was selected as a finalist in the [CSAW Applied Research Competition](https://www.csaw.io/research) (top 8% of all submisisons). Let's meet in NYC!

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sensing With Better Security and Privacy"
+title: "Enable AI Sensing With Better Security and Privacy"
 excerpt: "About me"
 author_profile: true
 layout: single
@@ -11,8 +11,12 @@ redirect_from:
 
 
 
-My research is broadly in cyber-physical system (CPS) security and privacy and spans the intersections of embedded systems, sensing, and mobile computing. I seek to ensure **trustworthy and confidential sensing-based computation** in user-device interactions, critical infrastructures, and emerging technologies, with a focus on the hardware-software interfaces. I received my PhD degree from the [University of Michigan, EECS](https://eecs.engin.umich.edu/) where I worked with my PhD advisor [Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) (Fellow of IEEE, ACM, AAAS). I completed my undergraduate study at Zhejiang University, where I worked with [Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) (Fellow of IEEE) and [Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en). 
-My research has been recognized by the [IEEE S&P Distinguished Paper Award](https://sp2024.ieee-security.org/awards.html), [CPS Rising Stars Award](https://risingstars.linklab.virginia.edu/2024/participants/yan-long.html), and [IEEE HOST Best PhD Thesis Award](https://ece.engin.umich.edu/stories/yan-long-receives-dissertation-award-in-the-area-of-hardware-security), and reported by [Fox News](https://www.foxnews.com/tech/creepy-tool-lets-criminal-hackers-access-home-video-cameras), [TechRadar](https://www.techradar.com/pro/anywhere-theres-a-camera-now-theres-a-risk-billions-of-users-at-risk-of-peeping-toms-scientists-devise-incredibly-simple-eavesdropping-system-costing-only-a-few-hundred-dollars), [The Register](https://www.theregister.com/2022/09/17/glasses_reflections_zoom/), etc.
+I direct the [HKUST(GZ) Security Research Lab](https://yanlong.site/team/), where we endeavor to protect the security and privacy of cutting-edge technologies such as embodied AI, Internet of Things, and ubiquitous computing. In particular, I seek to ensure trustworthy and confidential sensing and downstream computation in AI-based automation and user-computer interactions. We investigate both software and hardware stacks of computer systems.  
+
+Before joining HKUST(GZ), I received my PhD degree from the [University of Michigan, EECS](https://eecs.engin.umich.edu/), where I worked with [Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) (Fellow of IEEE, ACM, AAAS). I completed my undergraduate study at Zhejiang University, where I worked with [Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) (Fellow of IEEE) and [Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en). 
+
+
+My research has been recognized by the [IEEE S&P Distinguished Paper Award](https://sp2024.ieee-security.org/awards.html), CPS Rising Stars Award, IEEE HOST Best PhD Thesis Award, CSAW Applied Research Finalist Award, etc., and reported by [Fox News](https://www.foxnews.com/tech/creepy-tool-lets-criminal-hackers-access-home-video-cameras), [TechRadar](https://www.techradar.com/pro/anywhere-theres-a-camera-now-theres-a-risk-billions-of-users-at-risk-of-peeping-toms-scientists-devise-incredibly-simple-eavesdropping-system-costing-only-a-few-hundred-dollars), [The Register](https://www.theregister.com/2022/09/17/glasses_reflections_zoom/), etc. I invented the concept of sensor EM side channel leakage, with the well-known discovery of [EM Eye attack](https://www.keysight.com/blogs/en/tech/nwvs/2024/04/30/security-highlight-em-eye-embedded-camera-vulnerability), which has influenced the industrial design of secure IoT sensing systems in a wide range of critical infrastructures and consumer devices.
 
 <!-- <span style="color:rgb(231, 76, 60)">__<font size="+1">[25Fall/26Spring - Recruiting PhD Students/RAs/Research Interns]</font>__</span> Starting Fall 2025, I will be an assistant professor in the [IoT Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/) of Hong Kong University of Science and Technology (Guangzhou). I'm seeking talented students who are passionate about tackling research challenges in computer security and sensing. We welcome both in-person and remote interns.
 <!-- For more information about our PhD applications and my research lab, [check this out](./team/).  -->
@@ -28,10 +32,15 @@ My research has been recognized by the [IEEE S&P Distinguished Paper Award](http
 
 ### Research Interests
 
-* Protecting user privacy from evolving sensors ([IEEE S&P'23](/files/oakland23-privateeye.pdf), [RAID'23](/files/raid23.pdf)) and side-channel problems ([IEEE S&P'23](https://sideeyeattack.github.io/Website/), [NDSS'24](https://emeyeattack.github.io/Website/))
+* AI security of multi-modal sensing systems such as VLM-enabled robotics, drones, and smart glasses
+* AI for security vulnerability discovery and analysis in Android, AR/VR, and other mobile computing platforms
+* Physical sensing security and privacy applied to embedded systems, Deepfake multimedia, IoT, etc. 
+
+
+<!-- Protecting user privacy from evolving sensors ([IEEE S&P'23](/files/oakland23-privateeye.pdf), [RAID'23](/files/raid23.pdf)) and side-channel problems ([IEEE S&P'23](https://sideeyeattack.github.io/Website/), [NDSS'24](https://emeyeattack.github.io/Website/))
 * Modeling the security impact of physcial signals such as acoustics, lasers, electromagentic interference on computer vision ([RAID'25](/files/raid25-rfeyed.pdf), [VehicleSec'24](/files/vehiclesec24.pdf)), speech processing ([IEEE S&P'24](/files/oakland24.pdf)), and other sensing systems ([USENIX'26](), [NDSS'24](https://sites.google.com/view/ghosttype-demo))  
 * Designing novel sensing software and hardware systems for security ([ACM CCS'19](/files/ccs19.pdf), [ACM NSPW'22](/files/nspw22.pdf)) and healthcare ([UbiComp/IMWUT'21](https://spqrlab1.github.io/N95deconProject.html)) 
-* Sensing-related security and privacy problems in Android ([WiSec'25](/files/wisec25-armour.pdf)), AR/VR, and other emerging mobile computing platforms, as well as DeepFake multimedia.  
+* Sensing-related security and privacy problems in Android ([WiSec'25](/files/wisec25-armour.pdf)), AR/VR, and other emerging mobile computing platforms, as well as DeepFake multimedia.   -->
 
 <!-- with a focus on the following topics: 
 * The gaps between existing computation abstractions and actual hardware/software implementations in embedded sensing systems.

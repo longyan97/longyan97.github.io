@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-I direct the [HKUST(GZ) Security Research Lab](https://yanlong.site/team/), where we endeavor to protect the security and privacy of cutting-edge technologies such as embodied AI, Internet of Things, and ubiquitous computing. In particular, I seek to ensure trustworthy and confidential sensing and downstream computation in AI-based automation and user-computer interactions. We investigate both software and hardware stacks of computer systems.  
+I direct the [HKUST(GZ) Security Research Lab](https://yanlong.site/team/), where we endeavor to protect the security and privacy of cutting-edge technologies such as embodied AI, Internet of Things, and ubiquitous computing. In particular, I seek to ensure trustworthy and confidential sensing and downstream computation in AI-based automation and user-computer interactions. We investigate both software and hardware stacks of computer systems. I am affiliated with the IoT and AI Thrusts of Information Hub, HKUST(GZ).
 
 Before joining HKUST(GZ), I received my PhD degree from the [University of Michigan, EECS](https://eecs.engin.umich.edu/), where I worked with [Kevin Fu](https://web.eecs.umich.edu/~kevinfu/) (Fellow of IEEE, ACM, AAAS). I completed my undergraduate study at Zhejiang University, where I worked with [Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ&hl=en&oi=ao) (Fellow of IEEE) and [Xiaoyu Ji](https://scholar.google.com/citations?user=9D4UYBoAAAAJ&hl=en). 
 

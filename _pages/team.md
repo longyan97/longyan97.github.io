@@ -34,9 +34,9 @@ Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkus
 <br>Graduated From: Zhejiang U
 <br>Research Focus: Embodied AI Security
 
-<!-- - [Ziping CONG]() (PhD student at HKUST(GZ), since 2026) &nbsp; <img src="../images/ZiyuShao.png" width="60" height="60">
+- [Ziping CONG]() (PhD student at HKUST(GZ), since 2026) &nbsp; <img src="../images/ZipingCong.png" width="60" height="60">
 <br>Graduated From: TU Munich 
-<br>Research Focus: Embodied AI Security -->
+<br>Research Focus: Embodied AI Security
 
 - [Yaxin LI]() (MPhil student at HKUST(GZ), since 2025) &nbsp; <img src="../images/YaxinLi.jpg" width="60" height="60">
   <br>Graduated From: Sichuan U

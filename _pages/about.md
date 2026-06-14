@@ -83,7 +83,7 @@ In <strong>IEEE S&P 2023</strong> <br>
 
 ## News
 
-* [May, 2026] Happy to review for UIST 2026.  
+* [May, 2026] Happy to review for UIST 2026 and IMWUT 2026.  
 * [Feb, 2026] Glad to serve on the program committee of [New England Hardware Security Day (NEHWS) 2026](https://nehws.org/) again and reunite with the community!
 * [Feb, 2026] Serving on the program committee of Dependable and Secure Machine Learning (DSLM 2026). 
 * [Dec, 2025] Our SoK paper "SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks" is accepted at USENIX'26. 

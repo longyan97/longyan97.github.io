@@ -10,11 +10,23 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 
 
 ## 2026
+
+
+* [C18] Haoran Yan, Ziyu Shao, Shuhao Zhang, Qinhong Jiang, __Yan Long†__
+<br/> 
+**"Injected and Leaked: Actively Inducing Side-Channel Leakage Using Electromagnetic Injection and Hardware Nonlinearity"**
+<br/>
+In The USENIX Security Symposium (USENIX) 2026<br/>
+[[PDF]](/files/usenix26-injecteave.pdf)   [[BibTeX]](/files/usenix26-injecteave-bibtex.txt) [[Website & Demo]](https://injecteave.github.io/) 
+
+## 2025
+
+
 * [C17] Qinhong Jiang<sup>*</sup>, __Yan Long<sup>*</sup>__, Youqian Zhang<sup>*</sup>, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu
 <br/> 
 **"SoK: Security of Cyber-physical Systems Under Intentional Electromagnetic Interference Attacks"**
 <br/>
-In The USENIX Security Symposium (USENIX) 2026 (to appear)<br/>
+In The USENIX Security Symposium (USENIX) 2026<br/>
 [[PDF]](/files/usenix26-sok.pdf)   [[BibTeX]](/files/usenix26-sok-bibtex.txt) [[Web Database]](https://iemi-research-database.github.io/) 
 
 ## 2025

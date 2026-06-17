@@ -1,0 +1,7 @@
+@inproceedings{yan2026injecteave,
+  title={Injected and Leaked: Actively Inducing Side-Channel Leakage Using Electromagnetic Injection and Hardware Nonlinearity},
+  author={Yan, Haoran and Shao, Ziyu and Zhang, Shuhao and Jiang, Qinhong and Long, Yan},
+  booktitle={35th USENIX Security Symposium (USENIX Security 2026)},
+  pages={},
+  year={2026}
+}

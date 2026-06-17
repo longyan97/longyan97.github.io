@@ -83,6 +83,8 @@ In <strong>IEEE S&P 2023</strong> <br>
 
 ## News
 
+* [June, 2026] Glad to be invited to serve on the TPC of USENIX 2027. 
+* [June, 2026] Excited to introduce our USENIX 2026 work, [InjectEeve](https://injecteave.github.io/), that invents Injection-induced EM Side Channels. 
 * [May, 2026] Happy to review for UIST 2026 and IMWUT 2026.  
 * [Feb, 2026] Glad to serve on the program committee of [New England Hardware Security Day (NEHWS) 2026](https://nehws.org/) again and reunite with the community!
 * [Feb, 2026] Serving on the program committee of Dependable and Secure Machine Learning (DSLM 2026). 

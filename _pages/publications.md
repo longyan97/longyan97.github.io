@@ -9,8 +9,6 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 *co-first authors (equal contribution); †corresponding author
 
 
-## 2026
-
 
 * [C18] Haoran Yan, Ziyu Shao, Shuhao Zhang, Qinhong Jiang, __Yan Long†__
 <br/> 
@@ -18,8 +16,6 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 <br/>
 In The USENIX Security Symposium (USENIX) 2026<br/>
 [[PDF]](/files/usenix26-injecteave.pdf)   [[BibTeX]](/files/usenix26-injecteave-bibtex.txt) [[Website & Demo]](https://injecteave.github.io/) 
-
-## 2025
 
 
 * [C17] Qinhong Jiang<sup>*</sup>, __Yan Long<sup>*</sup>__, Youqian Zhang<sup>*</sup>, Chen Yan, Xiaoyu Ji, Xiapu Luo, Kevin Fu, Jiannong Cao, Wenyuan Xu
@@ -29,7 +25,6 @@ In The USENIX Security Symposium (USENIX) 2026<br/>
 In The USENIX Security Symposium (USENIX) 2026<br/>
 [[PDF]](/files/usenix26-sok.pdf)   [[BibTeX]](/files/usenix26-sok-bibtex.txt) [[Web Database]](https://iemi-research-database.github.io/) 
 
-## 2025
 
 
 * [C16] Hui Zhuang, __Yan Long__, Duyeong Kim, Jennifer R. Amos, Heejo Lee, Kevin Fu
@@ -73,8 +68,6 @@ In IEEE International Symposium on Hardware Oriented Security and Trust (IEEE HO
  [[Paper Link]](http://www.hostsymposium.org/program-html.php)    [[PDF]](/files/host25-eyehearyou.pdf) 
 
 
-## 2024
-
 * [C12] Xingli Zhang, Yazhou Tu, __Yan Long__, Liqun Shan, Mohamed A Elsaadani, Kevin Fu, Zhiqiang Lin, Xiali Hei
 <br/> 
 **"From Virtual Touch to Tesla Command: Unlocking Unauthenticated Control Chains From Smart Glasses for Vehicle Takeover"**
@@ -106,8 +99,6 @@ In the Network and Distributed System Security Symposium (NDSS) 2024. (Acceptanc
 In the Network and Distributed System Security Symposium (NDSS) 2024. (Acceptance rate 20%)<br/>
 [[Website]](https://sites.google.com/view/ghosttype-demo)  [[PDF]](/files/ndss24-ghosttype.pdf)
 
-
-## 2023
 
 * [C8] Connor Bolton*, __Yan Long*__, Jun Han, Josiah Hester, and Kevin Fu. 
 <br/> 
@@ -142,7 +133,6 @@ In Workshop on Security of Space and Satellite Systems (SpaceSec) 2023
 <br/>
 [[Paper Link]](https://www.ndss-symposium.org/ndss-paper/auto-draft-407/)  [[PDF]](/files/spacesec23.pdf)
 
-## 2022
 
 * [C4] __Yan Long__ and Kevin Fu. 
 <br/> 
@@ -153,9 +143,6 @@ In Proceedings of the 2022 ACM/ACSA New Security Paradigms Workshop (NSPW). 2022
 [[Paper Link]](https://dl.acm.org/doi/10.1145/3584318.3584321)  [[PDF]](/files/nspw22.pdf)
 
 
-
-
-## 2021
 
 * [C3] __Yan Long__, Alexander Curtiss, Sara Rampazzi, Josiah Hester, and Kevin Fu.
 <br/> 
@@ -173,7 +160,6 @@ Biomedical Instrumentation & Technology (AAMI BI&T). 2021.<br/>
 [[Paper Link]](https://meridian.allenpress.com/bit/article/55/3/112/469795/Protecting-COVID-19-Vaccine-Transportation-and)  [[PDF]](/files/bit21.pdf)
 
 
-## 2020
 
 * [P1] __Yan Long__, Alexander Curtiss, Sara Rampazzi, Josiah Hester, and Kevin Fu.
 <br/> 
@@ -184,7 +170,6 @@ In Proceedings of the 18th Conference on Embedded Networked Sensor Systems (SenS
 [[Website]](https://spqrlab1.github.io/N95deconProject.html)   [[Paper Link]](https://dl.acm.org/doi/10.1145/3384419.3430613) 
 
 
-## 2019
 
 * [C2] Chen Yan*, __Yan Long*__, Xiaoyu Ji, and Wenyuan Xu. 
 <br/> 

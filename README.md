@@ -31,11 +31,12 @@ But note that you need to install Ruby 3.1 (or 3.2, def not 3.3 as of Aug 2024) 
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Clone the repository and make updates as detailed above.
+1. Make sure Ruby and Bundler are installed. On this Mac, the repo uses `rbenv` with Ruby 3.2.2 via `.ruby-version`.
+1. Run `rbenv exec bundle install` to install Ruby dependencies.
+1. Run `rbenv exec bundle exec jekyll serve --config _config.yml,_config.dev.yml --livereload` to generate the HTML and serve it from `http://127.0.0.1:4000/`. The local server automatically rebuilds and refreshes pages on change.
+
+If you see `no acceptor (port is in use or requires root privileges)`, another Jekyll/LiveReload process is probably already using port 35729. Stop the old process or rerun the command with a different LiveReload port, such as `--livereload-port 35730`.
 
 
 

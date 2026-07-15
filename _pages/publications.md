@@ -10,6 +10,14 @@ A full list of publications can be found on my [Google Scholar page](https://sch
 
 
 
+* [C19] Shuhao Zhang, Pai Zheng, Yuanzhe Yang, Qinhong Jiang, __Yan Long†__
+<br/> 
+**"Caught on Camera: Toward Evaluating and Defending On-screen Deepfakes With Mobile and Wearable Camera Devices"**
+<br/>
+In the 29th International Symposium on Research in Attacks, Intrusions and Defenses (RAID) 2026.<br/> (Acceptance rate 19%, to appear)<br/>
+<!-- [[PDF]](/files/usenix26-injecteave.pdf)   [[BibTeX]](/files/usenix26-injecteave-bibtex.txt) [[Website & Demo]](https://injecteave.github.io/)  -->
+
+
 * [C18] Haoran Yan, Ziyu Shao, Shuhao Zhang, Qinhong Jiang, __Yan Long†__
 <br/> 
 **"Injected and Leaked: Actively Inducing Side-Channel Leakage Using Electromagnetic Injection and Hardware Nonlinearity"**

@@ -14,9 +14,6 @@ Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkus
 
 ## Current Advisees  
 
-- [Zanyu BAO]() (PhD student at HKUST(GZ), since 2025) &nbsp; <img src="../images/ZanyuBao.png" width="60" height="60">
-  <br>Graduated From: U Glassgow
-  <br>Research Focus: Software & AI Security
 
 - [Pai ZHENG]() (PhD student at HKUST(GZ), since 2025) &nbsp; <img src="../images/PaiZheng.png" width="60" height="60">
   <br>Graduated From: UIUC
@@ -57,8 +54,11 @@ Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkus
 
 
 ### Research Assistants and Interns 
-- [Yuchen ZHANG]() (Msc. student at HKU)
-- [Yahui HUANG]() (UG student at UESTC)
+- [Yuchen ZHANG]() (MS student at HKU)
+- [Chenfan SHENG]() (MS student at University of Sydney)
+- [Xuhui ZHANG]() (UG student at HIT)
+- [Yucheng ZHENG]() (UG student at Xiamen University Malaysia)
+
 
 
 
@@ -86,4 +86,5 @@ Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkus
 
 
 ## Thesis Committee/Jury
+- [Yiluo WEI](https://scholar.google.com/citations?user=YqPG1HkAAAAJ&hl=en), IoT PhD Thesis @ HKUST(GZ), 2026
 - [Mortaza HASSANI](https://www.linkedin.com/in/mortazahassani/), Cybersecurity MS Thesis @ Universite Libre de Bruxelles, 2025

@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Security Research Lab @ HKUST(GZ)"
+title: "Security Exploration of Novel Systems and Exploits (SENSE) Lab @ HKUST(GZ)"
 permalink: /team/
 author_profile: true
 ---
 
-The [Security Research Lab]() at the Hong Kong University of Science and Technology (Guangzhou) welcomes motivated researchers. The core mission of our lab is to advance the science and engineering of secure and privacy-preserving sensing and computation for protecting ground-breaking AI and cyber-physical technologies and their users.  
+The [Security Research Lab](https://sense-lab-security.github.io/) at the Hong Kong University of Science and Technology (Guangzhou) welcomes motivated researchers. The core mission of our lab is to advance the science and engineering of secure and privacy-preserving sensing and computation for protecting ground-breaking AI and cyber-physical technologies and their users.  
 
 <span style="color:rgb(231, 76, 60)">__<font size="+1">[27Fall - Recruiting PhD Students/RAs/Research Interns]</font>__</span> I'm seeking talented students who are passionate about tackling research challenges in computer security, AI, and sensing. We welcome both in-person and remote interns.
 <!-- The deadline for 25Fall [PhD application](https://fytgs.hkust-gz.edu.cn/admissions) is **July 15th, 2025**.  -->

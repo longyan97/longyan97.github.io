@@ -18,9 +18,9 @@ Before joining HKUST(GZ), I received my PhD degree from the [University of Michi
 
 My research has been recognized by the [IEEE S&P Distinguished Paper Award](https://sp2024.ieee-security.org/awards.html), CPS Rising Stars Award, IEEE HOST Best PhD Thesis Award, CSAW Applied Research Finalist Award, etc., and reported by [Fox News](https://www.foxnews.com/tech/creepy-tool-lets-criminal-hackers-access-home-video-cameras), [TechRadar](https://www.techradar.com/pro/anywhere-theres-a-camera-now-theres-a-risk-billions-of-users-at-risk-of-peeping-toms-scientists-devise-incredibly-simple-eavesdropping-system-costing-only-a-few-hundred-dollars), [The Register](https://www.theregister.com/2022/09/17/glasses_reflections_zoom/), etc. I invented the concept of sensor electromagnetic (EM) side channel leakage, with the well-known discovery of [EM Eye attack](https://emeyeattack.github.io/Website/), which has influenced the industrial design of secure IoT sensing systems in a wide range of critical infrastructures and consumer devices.
 
-<!-- <span style="color:rgb(231, 76, 60)">__<font size="+1">[25Fall/26Spring - Recruiting PhD Students/RAs/Research Interns]</font>__</span> Starting Fall 2025, I will be an assistant professor in the [IoT Thrust](https://www.hkust-gz.edu.cn/academics/hubs-and-thrust-areas/information-hub/internet-of-things/) of Hong Kong University of Science and Technology (Guangzhou). I'm seeking talented students who are passionate about tackling research challenges in computer security and sensing. We welcome both in-person and remote interns.
-<!-- For more information about our PhD applications and my research lab, [check this out](./team/).  -->
-<!-- The deadline for 25Fall [PhD application](https://fytgs.hkust-gz.edu.cn/admissions) is **July 15th, 2025**. Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkust-gz.edu.cn)   --> 
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[27Fall - Recruiting PhD & MPhil Students/RAs/Research Interns]</font>__</span> I'm seeking talented students who are passionate about tackling research challenges in computer security, AI, and sensing. We welcome both in-person and remote interns.
+<!-- The deadline for 25Fall [PhD application](https://fytgs.hkust-gz.edu.cn/admissions) is **July 15th, 2025**.  -->
+Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkust-gz.edu.cn)  
 
 
 

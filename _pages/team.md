@@ -7,7 +7,9 @@ author_profile: true
 
 The [SENSE Lab](https://sense-lab-security.github.io/) at the Hong Kong University of Science and Technology (Guangzhou) welcomes motivated researchers. The core mission of our lab is to advance the science and engineering of secure and privacy-preserving sensing and computation for protecting ground-breaking AI and cyber-physical technologies and their users.  
 
-<span style="color:rgb(231, 76, 60)">__<font size="+1">[27Fall - Recruiting PhD Students/RAs/Research Interns]</font>__</span> I'm seeking talented students who are passionate about tackling research challenges in computer security, AI, and sensing. We welcome both in-person and remote interns.
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[27Spring/Fall - Recruiting PhD Students: Strategic Hiring in Electromagnetic Signal Security]</font>__</span> I'm strategically recruiting PhD students for electromagnetic signal security projects, building on my [EM Eye](https://emeyeattack.github.io/Website/) and recent [InjectEave](https://injecteave.github.io/) research. This is a great opportunity for applicants with academic and project backgrounds in electrical engineering, electronics, electromagnetics, and related fields.
+
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[27Spring/Fall - Recruiting MPhil Students/RAs/Research Interns]</font>__</span> I'm seeking talented students who are passionate about tackling research challenges in computer security, AI, and sensing. We welcome both in-person and remote interns.
 <!-- The deadline for 25Fall [PhD application](https://fytgs.hkust-gz.edu.cn/admissions) is **July 15th, 2025**.  -->
 Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkust-gz.edu.cn)  
 

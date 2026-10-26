@@ -18,7 +18,9 @@ Before joining HKUST(GZ), I received my PhD degree from the [University of Michi
 
 My research has been recognized by the [IEEE S&P Distinguished Paper Award](https://sp2024.ieee-security.org/awards.html), CPS Rising Stars Award, IEEE HOST Best PhD Thesis Award, CSAW Applied Research Finalist Award, etc., and reported by [Fox News](https://www.foxnews.com/tech/creepy-tool-lets-criminal-hackers-access-home-video-cameras), [TechRadar](https://www.techradar.com/pro/anywhere-theres-a-camera-now-theres-a-risk-billions-of-users-at-risk-of-peeping-toms-scientists-devise-incredibly-simple-eavesdropping-system-costing-only-a-few-hundred-dollars), [The Register](https://www.theregister.com/2022/09/17/glasses_reflections_zoom/), etc. I invented the concept of sensor electromagnetic (EM) side channel leakage, with the well-known discovery of [EM Eye attack](https://emeyeattack.github.io/Website/), which has influenced the industrial design of secure IoT sensing systems in a wide range of critical infrastructures and consumer devices.
 
-<span style="color:rgb(231, 76, 60)">__<font size="+1">[27Spring/Fall - Recruiting PhD & MPhil Students/RAs/Research Interns]</font>__</span> I'm seeking talented students who are passionate about tackling research challenges in computer security, AI, and sensing. We welcome both in-person and remote interns.
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[27Spring/Fall - PhD Openings: Strategic Hiring in Electromagnetic Signal Security]</font>__</span> I'm strategically recruiting PhD students for electromagnetic signal security projects, building on my [EM Eye](https://emeyeattack.github.io/Website/) and recent [InjectEave](https://injecteave.github.io/) research. This is a great opportunity for applicants with academic and project backgrounds in electrical engineering, electronics, electromagnetics, and related fields.
+
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[MPhil Students/Research Interns]</font>__</span> I'm seeking talented students who are passionate about tackling research challenges in computer security, AI, and sensing. We welcome both in-person and remote interns.
 <!-- The deadline for 25Fall [PhD application](https://fytgs.hkust-gz.edu.cn/admissions) is **July 15th, 2025**.  -->
 Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkust-gz.edu.cn)  
 
@@ -54,6 +56,13 @@ Feel free to send me inquiries at: [yanlong@hkust-gz.edu.cn](mailto:yanlong@hkus
 
 
 ### Open-source Project 
+
+<br>
+<a href="https://github.com/SENSE-Lab-Security/SplashAds-Countermeasures"><img alt="GitHub stars" src="https://img.shields.io/github/stars/SENSE-Lab-Security/SplashAds-Countermeasures"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/SENSE-Lab-Security/SplashAds-Countermeasures"><br>
+<a href="https://github.com/SENSE-Lab-Security/SplashAds-Countermeasures"><img src="/images/splashads-countermeasures.png" width="400" alt="Splash ads interaction pipeline, from touch and motion inputs to advertisement triggers, navigation, and destinations"></a><br>
+<span style="color:rgb(231, 76, 60)">__<font size="+1">[NEW]</font>__</span> Splash Ads Countermeasures <br>
+A collection of mobile ad countermeasures for splash ads, shake-to-open redirects, and ad-triggered navigation. <br>
+[[Code]](https://github.com/SENSE-Lab-Security/SplashAds-Countermeasures)
 
 <br>
 <a href="https://github.com/longyan97/ARMOUR/"><img alt="GitHub stars" src="https://img.shields.io/github/stars/longyan97/ARMOUR"></a> <img alt="GitHub forks" src="https://img.shields.io/github/forks/longyan97/ARMOUR"><br>
@@ -127,6 +136,9 @@ In <strong>IEEE S&P 2023</strong> <br>
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=222222&w=400&t=tt&d=qw-7KviMSKIKIJZ322P9tqiNLxtNcDXkz5mAL0WL1wY&co=f6f6f6&ct=808080&cmo=2c8cf1&cmn=2c8cf1'></script>
 
 ## Research Highlights
+
+<iframe width="280" height="150" src="https://www.youtube.com/embed/ONB-LSf_ILQ" title="Research highlight video" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+&nbsp;
 
 <iframe width="280" height="150" src="https://www.youtube.com/embed/U7w2jyo62s0" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 &nbsp;

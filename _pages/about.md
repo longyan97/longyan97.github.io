@@ -92,6 +92,8 @@ In <strong>IEEE S&P 2023</strong> <br>
 
 ## News
 
+* [🔬 HSCC+ICCPS'27] Serving on the TPC of  [HSCC+ICCPS 2027](https://hscc-iccps2027.taylortjohnson.com/), which will be at the CPS-IoT Week 2027.
+* [🔬 ICASSP'27] Reviewing papers for [ICASSP 2027](https://2027.ieeeicassp.org/).  
 * [🔬 USENIX'27] Glad to be invited to serve on the TPC of USENIX 2027. 
 * [🔬 AsiaCCS'27] Will be serving on the TPC of ACM AsiaCCS'27. 
 * [June, 2026] Our paper on detecting on-screen deepfakes using mobile and wearable cameras, "Caught on Camera", has been accepted at RAID 2026. 

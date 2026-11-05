@@ -36,6 +36,7 @@ redirect_from:
 
 ## Service 
 * Program Committee 
+	* [HSCC+ICCPS 2027](https://hscc-iccps2027.taylortjohnson.com/)
 	* [USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)
 	* [ACM AsiaCCS 2027](https://asiaccs2027.cityu.edu.mo/home/index.html)
 	* [USENIX Security 2026](https://www.usenix.org/conference/usenixsecurity26)
